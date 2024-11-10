@@ -20,9 +20,7 @@
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -33,8 +31,6 @@
 						<integer>16396384</integer>
 						<key>Dictionary</key>
 						<string>gaufde_CWM</string>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>Key</key>
 						<string>window_cycle_namespace</string>
 						<key>MacroActionType</key>
@@ -68,7 +64,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-PreferencePane</string>
 				<key>ModificationDate</key>
-				<real>752746770.91566396</real>
+				<real>752812287.82045496</real>
 				<key>Name</key>
 				<string>CWM Window Center Move Only</string>
 				<key>Triggers</key>
@@ -89,7 +85,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -178,7 +174,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -329,7 +325,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -353,9 +349,7 @@
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -505,7 +499,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-PreferencePane</string>
 				<key>ModificationDate</key>
-				<real>752746561.14590299</real>
+				<real>752872255.15002203</real>
 				<key>Name</key>
 				<string>CWM Window Center</string>
 				<key>Triggers</key>
@@ -526,7 +520,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -716,232 +710,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
-		<key>ToggleMacroUID</key>
-		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
-		<key>UID</key>
-		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>752380181.82119703</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16391983</integer>
-						<key>MacroActionType</key>
-						<string>Comment</string>
-						<key>StyledText</key>
-						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC5pAgAAKwAAAAEA
-						AABhAgAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYyNzA5
-						Clxjb2NvYXRleHRzY2FsaW5nMFxj
-						b2NvYXBsYXRmb3JtMHtcZm9udHRi
-						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
-						IEhlbHZldGljYTt9CntcY29sb3J0
-						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
-						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
-						bHVlMDt9CntcKlxleHBhbmRlZGNv
-						bG9ydGJsOztcY3NzcmdiXGMwXGMw
-						XGMwXGM4NDcwNlxjbmFtZSBjb250
-						cm9sVGV4dENvbG9yO30KXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
-						Y2YyIER1ZSB0byBhIE1hY09TIGJ1
-						ZywgS00gaGFzIGFkZGVkIGEgZGVs
-						YXkgdG8gZnVuY3Rpb25zIHRoYXQg
-						bWFuaXB1bGF0ZSB0aGUgd2luZG93
-						IGZyYW1lIHN0YXJ0aW5nIGluIDEx
-						LjAuMi4gUnVuIHRoaXMgbWFjcm8g
-						bWFudWFsbHkgaWYgeW91IHdvdWxk
-						IGxpa2UgdG8gc2V0IGEgY3VzdG9t
-						IGRlbGF5LiBJIHN1Z2dlc3QgMC4w
-						IHVubGVzcyB0aGF0IGNhdXNlcyB3
-						aW5kb3dzIHRvIG1vdmUgdW5yZWxp
-						YWJseS59AQAAACMAAAABAAAABwAA
-						AFRYVC5ydGYQAAAAxVIpZ7YBAAAA
-						AAAAAAAAAA==
-						</data>
-						<key>Title</key>
-						<string>README</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390761</integer>
-						<key>Buttons</key>
-						<array>
-							<dict>
-								<key>Button</key>
-								<string>OK</string>
-							</dict>
-							<dict>
-								<key>Button</key>
-								<string>Cancel</string>
-								<key>Cancel</key>
-								<true/>
-							</dict>
-						</array>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>PromptForUserInput</string>
-						<key>Prompt</key>
-						<string>Please enter the delay time in seconds. The default value is 0.3.</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>Title</key>
-						<string>Value for WindowSetFrameAnimationTime</string>
-						<key>Variables</key>
-						<array>
-							<dict>
-								<key>Default</key>
-								<string>0.0</string>
-								<key>Type</key>
-								<string>Automatic</string>
-								<key>Variable</key>
-								<string>local_seconds</string>
-							</dict>
-						</array>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390757</integer>
-						<key>CatchActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16390759</integer>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>error</string>
-								<key>Variable</key>
-								<string>local_result</string>
-							</dict>
-						</array>
-						<key>MacroActionType</key>
-						<string>TryCatch</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TryActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16390758</integer>
-								<key>DisplayKind</key>
-								<string>Variable</string>
-								<key>HonourFailureSettings</key>
-								<true/>
-								<key>IncludeStdErr</key>
-								<false/>
-								<key>IncludedVariables</key>
-								<array>
-									<string>9999</string>
-								</array>
-								<key>MacroActionType</key>
-								<string>ExecuteShellScript</string>
-								<key>NotifyOnFailure</key>
-								<false/>
-								<key>Path</key>
-								<string></string>
-								<key>Source</key>
-								<string>Variable</string>
-								<key>SourceVariable</key>
-								<string>local_seconds</string>
-								<key>StopOnFailure</key>
-								<false/>
-								<key>Text</key>
-								<string>defaults write com.stairways.keyboardmaestro.engine WindowSetFrameAnimationTime -float $KMVAR_local_seconds</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>TrimResults</key>
-								<true/>
-								<key>TrimResultsNew</key>
-								<true/>
-								<key>UseText</key>
-								<true/>
-								<key>Variable</key>
-								<string>local_result</string>
-							</dict>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16391980</integer>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>%ActionResult%</string>
-								<key>Variable</key>
-								<string>local_result</string>
-							</dict>
-						</array>
-					</dict>
-					<dict>
-						<key>Action</key>
-						<string>DisplayWindow</string>
-						<key>ActionUID</key>
-						<integer>16390760</integer>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>StyledText</key>
-						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6pAQAAKwAAAAEA
-						AAChAQAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYyNzA5
-						Clxjb2NvYXRleHRzY2FsaW5nMFxj
-						b2NvYXBsYXRmb3JtMHtcZm9udHRi
-						bFxmMFxmbmlsXGZjaGFyc2V0MCBI
-						ZWx2ZXRpY2FOZXVlO30Ke1xjb2xv
-						cnRibDtccmVkMjU1XGdyZWVuMjU1
-						XGJsdWUyNTU7XHJlZDBcZ3JlZW4w
-						XGJsdWUwO30Ke1wqXGV4cGFuZGVk
-						Y29sb3J0Ymw7O1xjc3NyZ2JcYzBc
-						YzBcYzBcYzg0NzA2XGNuYW1lIGNv
-						bnRyb2xUZXh0Q29sb3I7fQpccGFy
-						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
-						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
-						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
-						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
-						XHBhcmRpcm5hdHVyYWxccGFydGln
-						aHRlbmZhY3RvcjAKClxmMFxmczI2
-						IFxjZjIgVGhlIHJlc3VsdCBpczog
-						JVZhcmlhYmxlJWxvY2FsX3Jlc3Vs
-						dCV9AQAAACMAAAABAAAABwAAAFRY
-						VC5ydGYQAAAA4zEpZ7YBAAAAAAAA
-						AAAAAA==
-						</data>
-						<key>Text</key>
-						<string>The result is: %Variable%local_result%</string>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>752445503.69573605</real>
-				<key>ModificationDate</key>
-				<real>752454249.39565098</real>
-				<key>Name</key>
-				<string>CWM-HELPER: Set WindowSetFrameAnimationTime</string>
-				<key>Triggers</key>
-				<array/>
-				<key>UID</key>
-				<string>21112784-33C8-4928-8480-0A54008F97C5</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -1618,9 +1387,9 @@
 									<key>ConditionType</key>
 									<string>Variable</string>
 									<key>Variable</key>
-									<string>local_restart_undo_history</string>
+									<string>instance_dont_restart_undo_history</string>
 									<key>VariableConditionType</key>
-									<string>IsNot</string>
+									<string>IsEmpty</string>
 									<key>VariableValue</key>
 									<string>false</string>
 								</dict>
@@ -1695,8 +1464,8 @@
 								cnRmZAAAAAAD
 								AAAAAgAAAAcA
 								AABUWFQucnRm
-								AQAAAC6vAwAA
-								KwAAAAEAAACn
+								AQAAAC7DAwAA
+								KwAAAAEAAAC7
 								AwAAe1xydGYx
 								XGFuc2lcYW5z
 								aWNwZzEyNTJc
@@ -1795,17 +1564,20 @@
 								IG9ubHkgZnVu
 								Y3Rpb24gdGhh
 								dCBzaG91bGQg
-								cGFzcyBmYWxz
-								ZSBpbnRvIHRo
-								aXMgaXMgdGhl
-								IGBDV00gV2lu
-								ZG93IFVuZG9g
-								IGZ1bmN0aW9u
-								Ln0BAAAAIwAA
-								AAEAAAAHAAAA
-								VFhULnJ0ZhAA
-								AAC+tS1ntgEA
-								AAAAAAAAAAAA
+								c2V0IGBpbnN0
+								YW5jZV9kb250
+								X3Jlc3RhcnRf
+								dW5kb19oaXN0
+								b3J5YCBpcyB0
+								aGUgYENXTSBX
+								aW5kb3cgVW5k
+								b2AgZnVuY3Rp
+								b24ufQEAAAAj
+								AAAAAQAAAAcA
+								AABUWFQucnRm
+								EAAAAEa2L2e2
+								AQAAAAAAAAAA
+								AAA=
 								</data>
 								<key>Title</key>
 								<string>Notes</string>
@@ -1904,7 +1676,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-ControlFlow</string>
 				<key>ModificationDate</key>
-				<real>752797232.04585397</real>
+				<real>752873195.68517804</real>
 				<key>Name</key>
 				<string>CWM-SUB: Init</string>
 				<key>Triggers</key>
@@ -1913,9 +1685,7 @@
 						<key>MacroTriggerType</key>
 						<string>Subroutine</string>
 						<key>Parameters</key>
-						<array>
-							<string>local_restart_undo_history</string>
-						</array>
+						<array/>
 						<key>ReturnsValue</key>
 						<false/>
 					</dict>
@@ -1925,7 +1695,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -1943,397 +1713,327 @@
 				<array>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16391984</integer>
-						<key>IsDisclosed</key>
-						<false/>
+						<integer>16391982</integer>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC5nHQAAKwAAAAEA
-						AABfHQAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC4+AgAAKwAAAAEA
+						AAA2AgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNzA5
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
 						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
-						IEhlbHZldGljYS1Cb2xkO1xmMVxm
-						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
-						dGljYTtcZjJcZm5pbFxmY2hhcnNl
-						dDAgTHVjaWRhR3JhbmRlOwpcZjNc
-						Zm5pbFxmY2hhcnNldDAgTHVjaWRh
-						R3JhbmRlLUJvbGQ7fQp7XGNvbG9y
-						dGJsO1xyZWQyNTVcZ3JlZW4yNTVc
-						Ymx1ZTI1NTtccmVkMFxncmVlbjBc
-						Ymx1ZTA7fQp7XCpcZXhwYW5kZWRj
-						b2xvcnRibDs7XGNzc3JnYlxjMFxj
-						MFxjMFxjODQ3MDZcY25hbWUgY29u
-						dHJvbFRleHRDb2xvcjt9ClxwYXJk
-						XHR4NTYwXHR4MTEyMFx0eDE2ODBc
-						dHgyMjQwXHR4MjgwMFx0eDMzNjBc
-						dHgzOTIwXHR4NDQ4MFx0eDUwNDBc
-						dHg1NjAwXHR4NjE2MFx0eDY3MjBc
-						cGFyZGlybmF0dXJhbFxwYXJ0aWdo
-						dGVuZmFjdG9yMAoKXGYwXGJcZnMy
-						NiBcY2YyIFwnOTdUaGlzIGlzIHRo
-						ZSBDeWNsaW5nIFdpbmRvdyBNYW5h
-						Z2VyXCc5NwpcZjFcYjAgXApcCldy
-						aXR0ZW4gYnkgQGdhdWZkZVwKXHBh
-						cmRcdHg1NjBcdHgxMTIwXHR4MTY4
-						MFx0eDIyNDBcdHgyODAwXHR4MzM2
-						MFx0eDM5MjBcdHg0NDgwXHR4NTA0
-						MFx0eDU2MDBcdHg2MTYwXHR4Njcy
-						MFxwYXJkaXJuYXR1cmFsXHBhcnRp
-						Z2h0ZW5mYWN0b3IwCntcZmllbGR7
-						XCpcZmxkaW5zdHtIWVBFUkxJTksg
-						Imh0dHBzOi8vZ2l0aHViLmNvbS9n
-						YXVmZGUifX17XGZsZHJzbHQgXGNm
-						MiBodHRwczovL2dpdGh1Yi5jb20v
-						Z2F1ZmRlfX1cClwKXHBhcmRcdHg1
-						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
-						NDBcdHgyODAwXHR4MzM2MFx0eDM5
-						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
-						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
-						aXJuYXR1cmFsXHBhcnRpZ2h0ZW5m
-						YWN0b3IwCgpcZjBcYiBcY2YyIFwn
-						OTdGZWF0dXJlc1wnOTdcClwKXHBh
-						cmRcdHg1NjBcdHgxMTIwXHR4MTY4
-						MFx0eDIyNDBcdHgyODAwXHR4MzM2
-						MFx0eDM5MjBcdHg0NDgwXHR4NTA0
-						MFx0eDU2MDBcdHg2MTYwXHR4Njcy
-						MFxwYXJkaXJuYXR1cmFsXHBhcnRp
-						Z2h0ZW5mYWN0b3IwCgpcZjFcYjAg
-						XGNmMiBUaGUgcG9pbnQgb2YgdGhp
-						cyBtYWNybyBncm91cCBpcyB0byBt
-						YWtlIGl0IGVhc3kgdG8gc2l6ZSBh
-						bmQgbW92ZSB3aW5kb3cgb24gbXVs
-						dGlwbGUgc2NyZWVucy5cClwKVGhl
-						c2UgbWFjcm9zIHN1cHBvcnQ6XApc
-						Jzk2IEFueSBudW1iZXIgb2YgbW9u
-						aXRvcnMvc2NyZWVuc1wKXCc5NiBN
-						b3ZlIHRoZSBmcm9udCB3aW5kb3cg
-						dG8gYW55IGhhbGYgb2YgdGhlIHNj
-						cmVlbiB3aXRoIGEgaG90a2V5IGNv
-						bW1hbmRcClwnOTYgTW92ZSB0aGUg
-						ZnJvbnQgd2luZG93IHRvIGFueSBx
-						dWFydGVyIG9mIHRoZSBzY3JlZW4s
-						IG9yIGZpbGwgdGhlIHNjcmVlbiB3
-						aXRoIGEgY29tcG91bmQgaG90a2V5
-						IGNvbW1hbmQgKHNpbWlsYXIgdG8g
-						dGhlIFdpbk1vdmVyIG1hY3JvcyBi
-						eSBAY2ZyaWVuZClcClwnOTYgTW92
-						ZSB0aGUgZnJvbnQgd2luZG93IHRv
-						IGFueSB0aGlyZCBvZiB0aGUgc2Ny
-						ZWVuIGJ5IHJlcGVhdGVkbHkgY3lj
-						bGluZyB0aGUgaG90a2V5IGNvbW1h
-						bmRzIChzaW1pbGFyIHRvIGhvdyBS
-						YXljYXN0IGRvZXMgaXQpXApcJzk2
-						IE1vdmUgdGhlIGZyb250IHdpbmRv
-						dyB0byB0aGUgbmV4dC9wcmV2aW91
-						cyBzY3JlZW4gKG1haW50YWluaW5n
-						IHJlbGF0aXZlIHNpemUgYW5kIHBv
-						c2l0aW9uKVwKXCc5NiBNb3ZlIHRo
-						ZSBmcm9udCB3aW5kb3cgdG8gdGhl
-						IHByZXZpb3VzIHNpemUgYW5kIHBv
-						c2l0aW9uIHRvIFwnOTN1bmRvXCc5
-						NCBhIG1vdmVcClwKXHBhcmRcdHg1
-						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
-						NDBcdHgyODAwXHR4MzM2MFx0eDM5
-						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
-						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
-						aXJuYXR1cmFsXHBhcnRpZ2h0ZW5m
-						YWN0b3IwCgpcZjBcYiBcY2YyIFwn
-						OTdFeGFtcGxlIFVzYWdlXCc5N1wK
-						XApccGFyZFx0eDU2MFx0eDExMjBc
-						dHgxNjgwXHR4MjI0MFx0eDI4MDBc
-						dHgzMzYwXHR4MzkyMFx0eDQ0ODBc
-						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
-						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
-						cGFydGlnaHRlbmZhY3RvcjAKClxm
-						MlxiMCBcY2YyIFx1YzBcdTg5NjMg
-						XHU4OTk3IFx1ODk4NCBcdTg1OTIg
-						ClxmMFxiICAgICAgICAgICAgClxm
-						MVxiMCA9IGxlZnQgY29sdW1uIChm
-						aXJzdCBjeWNsZSlcCgpcZjIgCVx1
-						YzBcdTg5NjMgXHU4OTk3IFx1ODk4
-						NCBcdTg1OTIgClxmMFxiICAgIApc
-						ZjFcYjAgPSBsZWZ0IHRoaXJkIChz
-						ZWNvbmQgY3ljbGUpXAoKXGYyIAlc
-						dWMwXHU4OTYzIFx1ODk5NyBcdTg5
-						ODQgXHU4NTkyIApcZjBcYiAgICAK
-						XGYxXGIwID0gbGVmdCB0d28tdGhp
-						cmRzICh0aGlyZCBjeWNsZSlcCgpc
-						ZjIgCVx1YzBcdTg5NjMgXHU4OTk3
-						IFx1ODk4NCBcdTg1OTIgClxmMFxi
-						ICAgIApcZjFcYjAgPSBtaWRkbGUg
-						dGhpcmQgKGZvdXJ0aCBjeWNsZSlc
-						ClwKTm90ZTogU2ltaWxhciBiZWhh
-						dmlvciBpcyBhdmFpbGFibGUgZm9y
-						IApcZjIgXHVjMFx1ODU5NCAsXHU4
-						NTk1ICwgYW5kIFx1ODU5MyAuIApc
-						ZjEgQWxzbywgIGRlc3BpdGUgdGhl
-						IGFuaW1hdGlvbiBvZiB0aGUgd2lu
-						ZG93IG1vdGlvbiBiZWluZyBzbG93
-						IGluIEtNIDExLjAuMissIEkgaGF2
-						ZSBwdXQgd29yayBpbnRvIG1ha2lu
-						ZyBzdXJlIHRoYXQgdGhlIGN5Y2xp
-						bmcgY2FuIGhhbmRsZSBmYXN0IGlu
-						cHV0cy4gU2ltcGx5IGNvdW50IHRo
-						ZSBudW1iZXIgb2Yga2V5LXByZXNz
-						ZXMgYW5kIHRoZSB3aW5kb3cgc2hv
-						dWxkIHVsdGltYXRlbHkgZW5kIHVw
-						IGluIHRoZSBjb3JyZWN0IHBvc2l0
-						aW9uIVwKXAoKXGYyIFx1YzBcdTg5
-						NjMgXHU4OTk3IFx1ODk4NCAuIApc
-						ZjBcYiAgICAgICAgICAgICAgIApc
-						ZjFcYjAgPSBDZW50ZXIgd2luZG93
-						IG9uIGN1cnJlbnQgc2NyZWVuIHdp
-						dGhvdXQgcmVzaXppbmdcClwKClxm
-						MiBcdWMwXHU4OTYzIFx1ODk5NyBc
-						dTg5ODQgClxmMSAgKyAKXGYyIC8K
-						XGYwXGIgICAgICAgICAgICAKXGYx
-						XGIwID0gY2VudGVyIGhhbGYgc2l6
-						ZSAoZmlyc3QgY3ljbGUpXAoKXGYy
-						IAlcdWMwXHU4OTYzIFx1ODk5NyBc
-						dTg5ODQgLwpcZjBcYiAgICAgICAg
-						ClxmMVxiMCA9IGNlbnRlciA1Lzgg
-						c2l6ZSAoc2Vjb25kIGN5Y2xlKVwK
-						ClxmMiAJXHVjMFx1ODk2MyBcdTg5
-						OTcgXHU4OTg0IC8KXGYwXGIgICAg
-						ICAgIApcZjFcYjAgPSBjZW50ZXIg
-						My80IHNpemUgKHRoaXJkIGN5Y2xl
-						KVwKClxmMiAJXHVjMFx1ODk2MyBc
-						dTg5OTcgXHU4OTg0IC8KXGYwXGIg
-						ICAgICAgIApcZjFcYjAgPSBmdWxs
-						IHNjcmVlbiAoZm91cnRoIGN5Y2xl
-						KVwKXHBhcmRcdHg1NjBcdHgxMTIw
-						XHR4MTY4MFx0eDIyNDBcdHgyODAw
-						XHR4MzM2MFx0eDM5MjBcdHg0NDgw
-						XHR4NTA0MFx0eDU2MDBcdHg2MTYw
-						XHR4NjcyMFxwYXJkaXJuYXR1cmFs
-						XHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
-						ZjBcYiBcY2YyIFwKXHBhcmRcdHg1
-						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
-						NDBcdHgyODAwXHR4MzM2MFx0eDM5
-						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
-						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
-						aXJuYXR1cmFsXHBhcnRpZ2h0ZW5m
-						YWN0b3IwCgpcZjJcYjAgXGNmMiBc
-						dWMwXHU4OTYzIFx1ODk5NyBcdTg5
-						ODQgXHU4NTkyIFx1ODU5MyAKXGYz
-						XGIgICAgICAgIApcZjFcYjAgPSB0
-						b3AgbGVmdCBxdWFkcmFudCBvZiB0
-						aGUgc2NyZWVuXApcCk5vdGU6IHNp
-						bWlsYXIgYmVoYXZpb3IgaXMgYXZh
-						aWxhYmxlIGZvciAKXGYyIFx1YzBc
-						dTg1OTMgXHU4NTk0ICxcdTg1OTIg
-						XHU4NTk1ICwgYW5kIFx1ODU5NSBc
-						dTg1OTQgLgpcZjEgXApccGFyZFx0
-						eDU2MFx0eDExMjBcdHgxNjgwXHR4
-						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
-						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
-						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
-						cmRpcm5hdHVyYWxccGFydGlnaHRl
-						bmZhY3RvcjAKClxmMFxiIFxjZjIg
-						XApcClxwYXJkXHR4NTYwXHR4MTEy
-						MFx0eDE2ODBcdHgyMjQwXHR4Mjgw
-						MFx0eDMzNjBcdHgzOTIwXHR4NDQ4
-						MFx0eDUwNDBcdHg1NjAwXHR4NjE2
-						MFx0eDY3MjBccGFyZGlybmF0dXJh
-						bFxwYXJ0aWdodGVuZmFjdG9yMAoK
-						XGYyXGIwIFxjZjIgXHVjMFx1ODk2
-						MyBcdTg5OTcgXHU4OTg0IFx1ODU5
-						MiBcdTg1OTQgICAgICAKXGYwXGIg
-						ICAKXGYxXGIwID0gZnVsbCBzY3Jl
-						ZW4KXGYwXGIgXAoKXGYyXGIwIFx1
-						YzBcdTg5NjMgXHU4OTk3IFx1ODk4
-						NCBcdTg1OTUgXHU4NTkzIApcZjBc
-						YiAgICAgICAgICAgClxmMVxiMCA9
-						IGZ1bGwgc2NyZWVuXApcCk5vdGU6
-						IHRoZXNlIGNvbXBvdW5kIGhvdGtl
-						eXMgYXJlIG1vc3QgcmVsaWFibGUg
-						aWYgeW91IGhvbGQgdGhlIGtleXMg
-						ZG93biBmb3IganVzdCBhIG1vbWVu
-						dCBsb25nZXIgdGhhbiB5b3Ugd291
-						bGQgYSBub3JtYWwgcHJlc3MuXApc
-						ClwKClxmMiBcdWMwXHU4OTYzIFx1
-						ODk5NyBcdTg5ODQgWgpcZjBcYiAg
-						ICAgICAgICAgICAKXGYxXGIwID0g
-						Y3ljbGUgdGhyb3VnaCB0aGUgcHJl
-						dmlvdXMgd2luZG93IGZyYW1lcyBm
-						b3IgdGhlIGN1cnJlbnQgd2luZG93
-						LlwKXAoKXGYyIFx1YzBcdTg5NjMg
-						XHU4OTk3IFx1ODU5MiAKXGYwXGIg
-						ICAgICAgICAgICAgICAKXGYxXGIw
-						ID0gVGhyb3cgd2luZG93IHRvIHBy
-						ZXZpb3VzIHNjcmVlblwKClxmMiBc
-						dWMwXHU4OTYzIFx1ODk5NyBcdTg1
-						OTIgClxmMFxiICAgICAgICAgICAg
-						ICAgClxmMVxiMCA9IFRocm93IHdp
-						bmRvdyB0byBuZXh0IHNjcmVlblwK
-						XApccGFyZFx0eDU2MFx0eDExMjBc
-						dHgxNjgwXHR4MjI0MFx0eDI4MDBc
-						dHgzMzYwXHR4MzkyMFx0eDQ0ODBc
-						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
-						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
-						cGFydGlnaHRlbmZhY3RvcjAKClxm
-						MFxiIFxjZjIgXCc5N1BhcmFtZXRl
-						cnNcJzk3XApcClxwYXJkXHR4NTYw
-						XHR4MTEyMFx0eDE2ODBcdHgyMjQw
-						XHR4MjgwMFx0eDMzNjBcdHgzOTIw
-						XHR4NDQ4MFx0eDUwNDBcdHg1NjAw
-						XHR4NjE2MFx0eDY3MjBccGFyZGly
-						bmF0dXJhbFxwYXJ0aWdodGVuZmFj
-						dG9yMAoKXGYxXGIwIFxjZjIgQmVz
-						aWRlcyBjdXN0b21pc2luZyB0aGUg
-						aG90a2V5IHRyaWdnZXJzLCB0aGVy
-						ZSBhcmUgbm8gcHVibGljIHBhcmFt
-						ZXRlcnMgdGhhdCBhcmUgZXhwbGlj
-						aXRseSBkZXNpZ25lZCB0byBiZSBt
-						b2RpZmllZCBieSB0aGUgZW5kIHVz
-						ZXIuIFlvdSBhcmUgb2YgY291cnNl
-						IHdlbGNvbWUgdG8gbW9kaWZ5IGNv
-						cmUgYmVoYXZpb3JzIHRvIG1ha2Ug
-						eW91ciBvd24gdmFyaWF0aW9uIG9m
-						IHRoaXMgbWFjcm8uXApcCklmIHlv
-						dSB3YW50LCB5b3UgY2FuIHJlbW92
-						ZSB0aGUgYW5pbWF0aW9uIGRlbGF5
-						IHRoYXQgS00gYWRkZWQgaW4gMTEu
-						MC4yLiBTaW1wbHkgcnVuIHRoZSBg
-						Q1dNLUhFTFBFUjogU2V0IFdpbmRv
-						d1NldEZyYW1lQW5pbWF0aW9uVGlt
-						ZWAgbWFjcm8gdXNpbmcgdGhlIFwn
-						OTNUcnlcJzk0IGJ1dHRvbiBpbiB0
-						aGUgS00gR1VJLiBJZiB5b3UgaGF2
-						ZSBpc3N1ZXMgd2l0aCB3aW5kb3dz
-						IG1vdmluZyB1bnJlbGlhYmx5LCB0
-						aGVuIHVzZSB0aGUgYENXTS1IRUxQ
-						RVI6IFJlc2V0IFdpbmRvd1NldEZy
-						YW1lQW5pbWF0aW9uVGltZWAgbWFj
-						cm8gdG8gcmV2ZXJ0IGJhY2sgdG8g
-						dGhlIGRlZmF1bHQgc2V0dGluZ3Mu
-						XApcClxwYXJkXHR4NTYwXHR4MTEy
-						MFx0eDE2ODBcdHgyMjQwXHR4Mjgw
-						MFx0eDMzNjBcdHgzOTIwXHR4NDQ4
-						MFx0eDUwNDBcdHg1NjAwXHR4NjE2
-						MFx0eDY3MjBccGFyZGlybmF0dXJh
-						bFxwYXJ0aWdodGVuZmFjdG9yMAoK
-						XGYwXGIgXGNmMiBcJzk3RXh0ZW5k
-						aW5nXCc5N1wKXHBhcmRcdHg1NjBc
-						dHgxMTIwXHR4MTY4MFx0eDIyNDBc
-						dHgyODAwXHR4MzM2MFx0eDM5MjBc
-						dHg0NDgwXHR4NTA0MFx0eDU2MDBc
-						dHg2MTYwXHR4NjcyMFxwYXJkaXJu
-						YXR1cmFsXHBhcnRpZ2h0ZW5mYWN0
-						b3IwCgpcZjFcYjAgXGNmMiBJdCBz
-						aG91bGQgYmUgcmVsYXRpdmVseSBl
-						YXN5IHRvIGV4dGVuZCB0aGlzIG1h
-						Y3JvIGlmIHlvdSB3YW50IHRvIGN1
-						c3RvbW96ZSBpdCBvciBhZGQgZnVu
-						Y3Rpb25hbGl0eS4KXGYwXGIgXApc
-						ClwKXCc5N0NoYW5nZSBMb2dcJzk3
-						XApcCjAuMS4wClxmMVxiMCBcCi0g
-						Rmlyc3QgdGVzdCB2ZXJzaW9uXApc
-						ClxwYXJkXHR4NTYwXHR4MTEyMFx0
-						eDE2ODBcdHgyMjQwXHR4MjgwMFx0
-						eDMzNjBcdHgzOTIwXHR4NDQ4MFx0
-						eDUwNDBcdHg1NjAwXHR4NjE2MFx0
-						eDY3MjBccGFyZGlybmF0dXJhbFxw
-						YXJ0aWdodGVuZmFjdG9yMAoKXGYw
-						XGIgXGNmMiAwLjIuMFwKXHBhcmRc
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
 						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
 						eDIyNDBcdHgyODAwXHR4MzM2MFx0
 						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
 						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
 						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjFcYjAgXGNm
-						MiAtIENvbnN0cmFpbiB1bmRvIGhp
-						c3RvcnkgdG8gY3VycmVudCB3aW5k
-						b3cgb25seVwKLSBJbXByb3ZlIHRy
-						YWNraW5nIGZvciB3aGVuIGN5Y2xl
-						cyBzaG91bGQgYmUgcmVzZXRcCi0g
-						Q2hhbmdlIGRlZmF1bHQgc2hvcnRj
-						dXQgZm9yIGBDV00gV2luZG93IENl
-						bnRlciBNYWNyb2BcClwKXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcYiBcY2Yy
-						IDAuMy4wXApccGFyZFx0eDU2MFx0
-						eDExMjBcdHgxNjgwXHR4MjI0MFx0
-						eDI4MDBcdHgzMzYwXHR4MzkyMFx0
-						eDQ0ODBcdHg1MDQwXHR4NTYwMFx0
-						eDYxNjBcdHg2NzIwXHBhcmRpcm5h
-						dHVyYWxccGFydGlnaHRlbmZhY3Rv
-						cjAKClxmMVxiMCBcY2YyIC0gRml4
-						IGJ1ZyB3aGVyZSBjeWNsZSB3b3Vs
-						ZCBub3QgcmVzZXQgYWZ0ZXIgbW92
-						aW5nIGEgd2luZG93IHdpdGggYSBj
-						b21wb3VuZCBzaG9ydGN1dCAoZS5n
-						LiBhIHF1YWRyYW50KVwKLSBBZGQg
-						Y29tbWFuZCBmb3IgY2VudGVyaW5n
-						IGEgd2luZG93IHdpdGhvdXQgcmVz
-						aXppbmdcCi0gUmVjb3JkIHVubGlt
-						aXRlZCB1bmRvIGhpc3RvcnlcCi0g
-						SW1wcm92ZSByZWxpYWJpbGl0eSBv
-						ZiB1bmRvIGZ1bmN0aW9uXApcClxw
-						YXJkXHR4NTYwXHR4MTEyMFx0eDE2
-						ODBcdHgyMjQwXHR4MjgwMFx0eDMz
-						NjBcdHgzOTIwXHR4NDQ4MFx0eDUw
-						NDBcdHg1NjAwXHR4NjE2MFx0eDY3
-						MjBccGFyZGlybmF0dXJhbFxwYXJ0
-						aWdodGVuZmFjdG9yMAoKXGYwXGIg
-						XGNmMiAwLjQuMApcZjFcYjAgXAot
-						IFJlZmFjdG9yIHdpbmRvdyBtb3Zl
-						IGZ1bmN0aW9uIHRvIHdvcmsgd2l0
-						aCBlaXRoZXIgY29lZmZpY2llbnRz
-						IG9yIGRpcmVjdCB2YWx1ZXNcCi0g
-						UmVmYWN0b3IgdG8gY29tYmluZSBj
-						YW5jZWxsaW5nIG9sZCBpbnN0YW5j
-						ZXMsIHJlamVjdCBzaW11bHRhbmVv
-						dXMgbW92ZXMsIGFuZCBuZXcgZnVu
-						Y3Rpb25hbGl0eSBpbnRvIEluaXQg
-						c3VibWFjcm9cCi0gVW4tZG9uZSBo
-						aXN0b3J5IGlzIG5vdyBvdmVyd3Jp
-						dHRlbiBpZiB5b3Ugc3RhcnQgdG8g
-						bWFrZSBuZXcgaGlzdG9yeSBmcm9t
-						IGEgcG9pbnQgaW4gdGhlIHBhc3Qg
-						KHRoZSB3YXkgeW91IGV4cGVjdCB1
-						bmRvIHRvIHdvcmspXAotIEFkZCBj
-						eWNsaW5nIHRpbWVvdXQgZm9yIGFs
-						bCBjeWNsZXMgZXhjZXB0IHVuZG8g
-						KHNldCB0byAxMCBzZWNvbmRzKVwK
-						LSBSZW1vdmUgcmVzZXQgY3ljbGUg
-						ZmxhZyBpbiBmYXZvciBvZiBuYW1l
-						c3BhY2VzXAotIFJlbmFtZSBgd2lu
-						ZG93X2N5Y2xlX2RpcmVjdGlvbmAg
-						dG8gYHdpbmRvd19jeWNsZV9uYW1l
-						c3BhY2VgfQEAAAAjAAAAAQAAAAcA
-						AABUWFQucnRmEAAAACuPLme2AQAA
-						AAAAAAAAAAA=
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIER1ZSB0byBhIE1hY09TIGJ1
+						ZywgS00gaGFzIGFkZGVkIGEgZGVs
+						YXkgdG8gZnVuY3Rpb25zIHRoYXQg
+						bWFuaXB1bGF0ZSB0aGUgd2luZG93
+						IGZyYW1lIHN0YXJ0aW5nIGluIDEx
+						LjAuMi4gUnVuIHRoaXMgbWFjcm8g
+						bWFudWFsbHkgaWYgeW91IHdvdWxk
+						IGxpa2UgdG8gcmVzZXQgdGhlIGRl
+						bGF5IHRvIHRoZSBkZWZhdWx0IHZh
+						bHVlLn0BAAAAIwAAAAEAAAAHAAAA
+						VFhULnJ0ZhAAAACeUilntgEAAAAA
+						AAAAAAAA
 						</data>
 						<key>Title</key>
-						<string>Info</string>
+						<string>README</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390764</integer>
+						<key>CatchActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16390767</integer>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>error</string>
+								<key>Variable</key>
+								<string>local_result</string>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>TryCatch</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TryActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16390765</integer>
+								<key>DisplayKind</key>
+								<string>Variable</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>MacroActionType</key>
+								<string>ExecuteShellScript</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Path</key>
+								<string></string>
+								<key>Source</key>
+								<string>Variable</string>
+								<key>SourceVariable</key>
+								<string>local_seconds</string>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>Text</key>
+								<string>defaults delete com.stairways.keyboardmaestro.engine WindowSetFrameAnimationTime</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>local_result</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16391978</integer>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%ActionResult%</string>
+								<key>Variable</key>
+								<string>local_result</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>DisplayWindow</string>
+						<key>ActionUID</key>
+						<integer>16390768</integer>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC6pAQAAKwAAAAEA
+						AAChAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmbmlsXGZjaGFyc2V0MCBI
+						ZWx2ZXRpY2FOZXVlO30Ke1xjb2xv
+						cnRibDtccmVkMjU1XGdyZWVuMjU1
+						XGJsdWUyNTU7XHJlZDBcZ3JlZW4w
+						XGJsdWUwO30Ke1wqXGV4cGFuZGVk
+						Y29sb3J0Ymw7O1xjc3NyZ2JcYzBc
+						YzBcYzBcYzg0NzA2XGNuYW1lIGNv
+						bnRyb2xUZXh0Q29sb3I7fQpccGFy
+						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
+						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
+						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
+						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
+						XHBhcmRpcm5hdHVyYWxccGFydGln
+						aHRlbmZhY3RvcjAKClxmMFxmczI2
+						IFxjZjIgVGhlIHJlc3VsdCBpczog
+						JVZhcmlhYmxlJWxvY2FsX3Jlc3Vs
+						dCV9AQAAACMAAAABAAAABwAAAFRY
+						VC5ydGYQAAAA4zEpZ7YBAAAAAAAA
+						AAAAAA==
+						</data>
+						<key>Text</key>
+						<string>The result is: %Variable%local_result%</string>
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>752454262.58056796</real>
-				<key>CustomIconData</key>
-				<string>KMEP-AlertStop</string>
+				<real>752445922.22723901</real>
 				<key>ModificationDate</key>
-				<real>752797375.87381995</real>
+				<real>752454173.35570395</real>
 				<key>Name</key>
-				<string>CWM READ ME</string>
+				<string>CWM-HELPER: Reset Default WindowSetFrameAnimationTime</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
-				<string>BFF8B875-616D-49F2-89AC-B20D0EF39CA7</string>
+				<string>24880CAF-4B16-4A13-8EC7-4AC46C7D4FA2</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
+		<key>ToggleMacroUID</key>
+		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
+		<key>UID</key>
+		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>752380181.82119703</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16393443</integer>
+						<key>MacroActionType</key>
+						<string>ExecuteSubroutine</string>
+						<key>MacroUID</key>
+						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
+						<key>Parameters</key>
+						<array/>
+						<key>ResultVariable</key>
+						<string>VarName</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390741</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToCalculation</string>
+						<key>Text</key>
+						<string>SCREENCOUNT()</string>
+						<key>UseFormat</key>
+						<false/>
+						<key>Variable</key>
+						<string>local_screen_count</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Cancel if single screen</string>
+						<key>ActionUID</key>
+						<integer>16391962</integer>
+						<key>Calculation</key>
+						<string>local_screen_count</string>
+						<key>CaseEntries</key>
+						<array>
+							<dict>
+								<key>Actions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>CancelJustThisMacro</string>
+										<key>ActionUID</key>
+										<integer>16391963</integer>
+										<key>MacroActionType</key>
+										<string>Cancel</string>
+									</dict>
+								</array>
+								<key>ConditionType</key>
+								<string>Is</string>
+								<key>TestValue</key>
+								<string>1</string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Switch</string>
+						<key>Source</key>
+						<string>Calculation</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390744</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToCalculation</string>
+						<key>Text</key>
+						<string>SCREENINDEX(Front)</string>
+						<key>UseFormat</key>
+						<false/>
+						<key>Variable</key>
+						<string>local_current_screen_index</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Increment screen index</string>
+						<key>ActionUID</key>
+						<integer>16390745</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToCalculation</string>
+						<key>Text</key>
+						<string>(local_current_screen_index MOD local_screen_count) + 1</string>
+						<key>UseFormat</key>
+						<false/>
+						<key>Variable</key>
+						<string>local_target_screen_index</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390746</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteSubroutine</string>
+						<key>MacroUID</key>
+						<string>76DBE68E-26D4-4595-BF9F-012A1F1A5E30</string>
+						<key>Parameters</key>
+						<array>
+							<string>%WindowFrame%1%</string>
+							<string>%ScreenVisible%local_current_screen_index%</string>
+							<string>%ScreenVisible%local_target_screen_index%</string>
+						</array>
+						<key>ResultVariable</key>
+						<string>VarName</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>752440191.46072197</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=⭆=86=2=8=0=KMCOLOR:0,0,0,255</string>
+				<key>ModificationDate</key>
+				<real>752745124.85627794</real>
+				<key>Name</key>
+				<string>CWM Throw to Next Screen</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>124</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>6144</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>09B890C1-2644-4E3E-B28B-4FECD4C78545</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -2357,9 +2057,7 @@
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -2712,348 +2410,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
-		<key>ToggleMacroUID</key>
-		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
-		<key>UID</key>
-		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>752380181.82119703</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16391971</integer>
-						<key>MacroActionType</key>
-						<string>Comment</string>
-						<key>StyledText</key>
-						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC5AAgAAKwAAAAEA
-						AAA4AgAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYyNzA5
-						Clxjb2NvYXRleHRzY2FsaW5nMFxj
-						b2NvYXBsYXRmb3JtMHtcZm9udHRi
-						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
-						IEhlbHZldGljYTt9CntcY29sb3J0
-						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
-						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
-						bHVlMDt9CntcKlxleHBhbmRlZGNv
-						bG9ydGJsOztcY3NzcmdiXGMwXGMw
-						XGMwXGM4NDcwNlxjbmFtZSBjb250
-						cm9sVGV4dENvbG9yO30KXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
-						Y2YyIER1ZSB0byBhIE1hY09TIGJ1
-						ZywgS00gaGFzIGFkZGVkIGEgZGVs
-						YXkgdG8gZnVuY3Rpb25zIHRoYXQg
-						bWFuaXB1bGF0ZSB0aGUgd2luZG93
-						IGZyYW1lIHN0YXJ0aW5nIGluIDEx
-						LjAuMi4gUnVuIHRoaXMgbWFjcm8g
-						bWFudWFsbHkgaWYgeW91IHdvdWxk
-						IGxpa2UgdG8gY2hlY2sgd2hhdCBk
-						ZWxheSBpcyBzZXQgb24geW91ciBz
-						eXN0ZW0ufQEAAAAjAAAAAQAAAAcA
-						AABUWFQucnRmEAAAAG5SKWe2AQAA
-						AAAAAAAAAAA=
-						</data>
-						<key>Title</key>
-						<string>README</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390756</integer>
-						<key>CatchActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16391972</integer>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>error</string>
-								<key>Variable</key>
-								<string>local_result</string>
-							</dict>
-						</array>
-						<key>MacroActionType</key>
-						<string>TryCatch</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TryActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16390753</integer>
-								<key>DisplayKind</key>
-								<string>Variable</string>
-								<key>HonourFailureSettings</key>
-								<true/>
-								<key>IncludeStdErr</key>
-								<false/>
-								<key>IncludedVariables</key>
-								<array>
-									<string>9999</string>
-								</array>
-								<key>MacroActionType</key>
-								<string>ExecuteShellScript</string>
-								<key>NotifyOnFailure</key>
-								<false/>
-								<key>Path</key>
-								<string></string>
-								<key>Source</key>
-								<string>Nothing</string>
-								<key>StopOnFailure</key>
-								<false/>
-								<key>Text</key>
-								<string>defaults read com.stairways.keyboardmaestro.engine WindowSetFrameAnimationTime</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>TrimResults</key>
-								<true/>
-								<key>TrimResultsNew</key>
-								<true/>
-								<key>UseText</key>
-								<true/>
-								<key>Variable</key>
-								<string>local_result</string>
-							</dict>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16391976</integer>
-								<key>CaseEntries</key>
-								<array>
-									<dict>
-										<key>Actions</key>
-										<array>
-											<dict>
-												<key>ActionUID</key>
-												<integer>16390755</integer>
-												<key>MacroActionType</key>
-												<string>SetVariableToText</string>
-												<key>Text</key>
-												<string>%ActionResult%</string>
-												<key>Variable</key>
-												<string>local_result</string>
-											</dict>
-										</array>
-										<key>ConditionType</key>
-										<string>IsNot</string>
-										<key>TestValue</key>
-										<string>OK</string>
-									</dict>
-								</array>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>Switch</string>
-								<key>Source</key>
-								<string>Text</string>
-								<key>Text</key>
-								<string>%ActionResult%</string>
-							</dict>
-						</array>
-					</dict>
-					<dict>
-						<key>Action</key>
-						<string>DisplayWindow</string>
-						<key>ActionUID</key>
-						<integer>16390754</integer>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>StyledText</key>
-						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6pAQAAKwAAAAEA
-						AAChAQAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYyNzA5
-						Clxjb2NvYXRleHRzY2FsaW5nMFxj
-						b2NvYXBsYXRmb3JtMHtcZm9udHRi
-						bFxmMFxmbmlsXGZjaGFyc2V0MCBI
-						ZWx2ZXRpY2FOZXVlO30Ke1xjb2xv
-						cnRibDtccmVkMjU1XGdyZWVuMjU1
-						XGJsdWUyNTU7XHJlZDBcZ3JlZW4w
-						XGJsdWUwO30Ke1wqXGV4cGFuZGVk
-						Y29sb3J0Ymw7O1xjc3NyZ2JcYzBc
-						YzBcYzBcYzg0NzA2XGNuYW1lIGNv
-						bnRyb2xUZXh0Q29sb3I7fQpccGFy
-						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
-						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
-						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
-						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
-						XHBhcmRpcm5hdHVyYWxccGFydGln
-						aHRlbmZhY3RvcjAKClxmMFxmczI2
-						IFxjZjIgVGhlIHJlc3VsdCBpczog
-						JVZhcmlhYmxlJWxvY2FsX3Jlc3Vs
-						dCV9AQAAACMAAAABAAAABwAAAFRY
-						VC5ydGYQAAAA4zEpZ7YBAAAAAAAA
-						AAAAAA==
-						</data>
-						<key>Text</key>
-						<string>The result is: %Variable%local_result%</string>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>752445178.661605</real>
-				<key>ModificationDate</key>
-				<real>752454140.29114401</real>
-				<key>Name</key>
-				<string>CWM-HELPER: Check WindowSetFrameAnimationTime</string>
-				<key>Triggers</key>
-				<array/>
-				<key>UID</key>
-				<string>E3F1B027-5982-4F65-BEB5-A8E61B10F4FD</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
-		<key>ToggleMacroUID</key>
-		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
-		<key>UID</key>
-		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>752380181.82119703</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>ActionName</key>
-						<string>Calculate index</string>
-						<key>ActionUID</key>
-						<integer>16390216</integer>
-						<key>Conditions</key>
-						<dict>
-							<key>ConditionList</key>
-							<array>
-								<dict>
-									<key>ConditionType</key>
-									<string>Text</string>
-									<key>Text</key>
-									<string>%Dictionary[gaufde_CWM, window_cycle_namespace]%</string>
-									<key>TextConditionType</key>
-									<string>Contains</string>
-									<key>TextValue</key>
-									<string>%local_cycle_namespace%</string>
-								</dict>
-							</array>
-							<key>ConditionListMatch</key>
-							<string>All</string>
-						</dict>
-						<key>ElseActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16394289</integer>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>1</string>
-								<key>Variable</key>
-								<string>local_cycle_index</string>
-							</dict>
-						</array>
-						<key>MacroActionType</key>
-						<string>IfThenElse</string>
-						<key>ThenActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16394288</integer>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>%Dictionary[gaufde_CWM, next_window_cycle_index]%</string>
-								<key>Variable</key>
-								<string>local_cycle_index</string>
-							</dict>
-						</array>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16392853</integer>
-						<key>Dictionary</key>
-						<string>gaufde_CWM</string>
-						<key>Key</key>
-						<string>next_window_cycle_index</string>
-						<key>MacroActionType</key>
-						<string>SetDictionaryValue</string>
-						<key>Value</key>
-						<string>%Calculate%(local_cycle_index MOD local_number_of_cycles) + 1%</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16392862</integer>
-						<key>Dictionary</key>
-						<string>gaufde_CWM</string>
-						<key>Key</key>
-						<string>window_cycle_namespace</string>
-						<key>MacroActionType</key>
-						<string>SetDictionaryValue</string>
-						<key>Value</key>
-						<string>%local_cycle_namespace%</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390224</integer>
-						<key>MacroActionType</key>
-						<string>Return</string>
-						<key>Text</key>
-						<string>%Variable%local_cycle_index%</string>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>752375555.68639004</real>
-				<key>CustomIconData</key>
-				<string>KMEP-ControlFlow</string>
-				<key>ModificationDate</key>
-				<real>752740033.40907097</real>
-				<key>Name</key>
-				<string>CWM-SUB: Calculate cycling index</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>Subroutine</string>
-						<key>Parameters</key>
-						<array>
-							<string>local_cycle_namespace</string>
-							<string>local_number_of_cycles</string>
-						</array>
-						<key>ReturnsValue</key>
-						<true/>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>916FFA74-41D9-40F7-8286-CDA3CF3C684E</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -3308,7 +2665,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -3326,15 +2683,13 @@
 				<array>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16393443</integer>
+						<integer>16393442</integer>
 						<key>MacroActionType</key>
 						<string>ExecuteSubroutine</string>
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -3342,7 +2697,7 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16390741</integer>
+						<integer>16390740</integer>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -3358,7 +2713,7 @@
 						<key>ActionName</key>
 						<string>Cancel if single screen</string>
 						<key>ActionUID</key>
-						<integer>16391962</integer>
+						<integer>16390715</integer>
 						<key>Calculation</key>
 						<string>local_screen_count</string>
 						<key>CaseEntries</key>
@@ -3370,7 +2725,7 @@
 										<key>Action</key>
 										<string>CancelJustThisMacro</string>
 										<key>ActionUID</key>
-										<integer>16391963</integer>
+										<integer>16390716</integer>
 										<key>MacroActionType</key>
 										<string>Cancel</string>
 									</dict>
@@ -3390,9 +2745,7 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16390744</integer>
-						<key>IsDisclosed</key>
-						<false/>
+						<integer>16390718</integer>
 						<key>MacroActionType</key>
 						<string>SetVariableToCalculation</string>
 						<key>Text</key>
@@ -3404,15 +2757,13 @@
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Increment screen index</string>
+						<string>Decrement screen index</string>
 						<key>ActionUID</key>
-						<integer>16390745</integer>
-						<key>IsDisclosed</key>
-						<false/>
+						<integer>16390717</integer>
 						<key>MacroActionType</key>
 						<string>SetVariableToCalculation</string>
 						<key>Text</key>
-						<string>(local_current_screen_index MOD local_screen_count) + 1</string>
+						<string>((local_current_screen_index - 2 + local_screen_count) MOD local_screen_count) + 1</string>
 						<key>UseFormat</key>
 						<false/>
 						<key>Variable</key>
@@ -3420,9 +2771,7 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16390746</integer>
-						<key>IsDisclosed</key>
-						<false/>
+						<integer>16390719</integer>
 						<key>MacroActionType</key>
 						<string>ExecuteSubroutine</string>
 						<key>MacroUID</key>
@@ -3440,20 +2789,20 @@
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>752440191.46072197</real>
+				<real>719865459.02540004</real>
 				<key>CustomIconData</key>
-				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=⭆=86=2=8=0=KMCOLOR:0,0,0,255</string>
+				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=⭅=86=-2=8=0=KMCOLOR:0,0,0,255</string>
 				<key>ModificationDate</key>
-				<real>752745124.85627794</real>
+				<real>752741278.45151198</real>
 				<key>Name</key>
-				<string>CWM Throw to Next Screen</string>
+				<string>CWM Throw to Previous Screen</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>124</integer>
+						<integer>123</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
@@ -3461,11 +2810,11 @@
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>09B890C1-2644-4E3E-B28B-4FECD4C78545</string>
+				<string>C26A1B15-A9BA-4C5C-BDA4-B7D65E6CD98A</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -3483,14 +2832,14 @@
 				<array>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16391982</integer>
+						<integer>16391983</integer>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC4+AgAAKwAAAAEA
-						AAA2AgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC5pAgAAKwAAAAEA
+						AABhAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyNzA5
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -3515,23 +2864,65 @@
 						IGZyYW1lIHN0YXJ0aW5nIGluIDEx
 						LjAuMi4gUnVuIHRoaXMgbWFjcm8g
 						bWFudWFsbHkgaWYgeW91IHdvdWxk
-						IGxpa2UgdG8gcmVzZXQgdGhlIGRl
-						bGF5IHRvIHRoZSBkZWZhdWx0IHZh
-						bHVlLn0BAAAAIwAAAAEAAAAHAAAA
-						VFhULnJ0ZhAAAACeUilntgEAAAAA
-						AAAAAAAA
+						IGxpa2UgdG8gc2V0IGEgY3VzdG9t
+						IGRlbGF5LiBJIHN1Z2dlc3QgMC4w
+						IHVubGVzcyB0aGF0IGNhdXNlcyB3
+						aW5kb3dzIHRvIG1vdmUgdW5yZWxp
+						YWJseS59AQAAACMAAAABAAAABwAA
+						AFRYVC5ydGYQAAAAxVIpZ7YBAAAA
+						AAAAAAAAAA==
 						</data>
 						<key>Title</key>
 						<string>README</string>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16390764</integer>
+						<integer>16390761</integer>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>Please enter the delay time in seconds. The default value is 0.3.</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>Value for WindowSetFrameAnimationTime</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string>0.0</string>
+								<key>Type</key>
+								<string>Automatic</string>
+								<key>Variable</key>
+								<string>local_seconds</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390757</integer>
 						<key>CatchActions</key>
 						<array>
 							<dict>
 								<key>ActionUID</key>
-								<integer>16390767</integer>
+								<integer>16390759</integer>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -3548,7 +2939,7 @@
 						<array>
 							<dict>
 								<key>ActionUID</key>
-								<integer>16390765</integer>
+								<integer>16390758</integer>
 								<key>DisplayKind</key>
 								<string>Variable</string>
 								<key>HonourFailureSettings</key>
@@ -3572,7 +2963,7 @@
 								<key>StopOnFailure</key>
 								<false/>
 								<key>Text</key>
-								<string>defaults delete com.stairways.keyboardmaestro.engine WindowSetFrameAnimationTime</string>
+								<string>defaults write com.stairways.keyboardmaestro.engine WindowSetFrameAnimationTime -float $KMVAR_local_seconds</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
 								<key>TrimResults</key>
@@ -3586,7 +2977,7 @@
 							</dict>
 							<dict>
 								<key>ActionUID</key>
-								<integer>16391978</integer>
+								<integer>16391980</integer>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -3600,7 +2991,7 @@
 						<key>Action</key>
 						<string>DisplayWindow</string>
 						<key>ActionUID</key>
-						<integer>16390768</integer>
+						<integer>16390760</integer>
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>StyledText</key>
@@ -3636,19 +3027,362 @@
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>752445922.22723901</real>
+				<real>752445503.69573605</real>
 				<key>ModificationDate</key>
-				<real>752454173.35570395</real>
+				<real>752454249.39565098</real>
 				<key>Name</key>
-				<string>CWM-HELPER: Reset Default WindowSetFrameAnimationTime</string>
+				<string>CWM-HELPER: Set WindowSetFrameAnimationTime</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
-				<string>24880CAF-4B16-4A13-8EC7-4AC46C7D4FA2</string>
+				<string>21112784-33C8-4928-8480-0A54008F97C5</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
+		<key>ToggleMacroUID</key>
+		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
+		<key>UID</key>
+		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>752380181.82119703</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16391971</integer>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5AAgAAKwAAAAEA
+						AAA4AgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIER1ZSB0byBhIE1hY09TIGJ1
+						ZywgS00gaGFzIGFkZGVkIGEgZGVs
+						YXkgdG8gZnVuY3Rpb25zIHRoYXQg
+						bWFuaXB1bGF0ZSB0aGUgd2luZG93
+						IGZyYW1lIHN0YXJ0aW5nIGluIDEx
+						LjAuMi4gUnVuIHRoaXMgbWFjcm8g
+						bWFudWFsbHkgaWYgeW91IHdvdWxk
+						IGxpa2UgdG8gY2hlY2sgd2hhdCBk
+						ZWxheSBpcyBzZXQgb24geW91ciBz
+						eXN0ZW0ufQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAG5SKWe2AQAA
+						AAAAAAAAAAA=
+						</data>
+						<key>Title</key>
+						<string>README</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390756</integer>
+						<key>CatchActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16391972</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>error</string>
+								<key>Variable</key>
+								<string>local_result</string>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>TryCatch</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TryActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16390753</integer>
+								<key>DisplayKind</key>
+								<string>Variable</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>MacroActionType</key>
+								<string>ExecuteShellScript</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Path</key>
+								<string></string>
+								<key>Source</key>
+								<string>Nothing</string>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>Text</key>
+								<string>defaults read com.stairways.keyboardmaestro.engine WindowSetFrameAnimationTime</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>local_result</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16391976</integer>
+								<key>CaseEntries</key>
+								<array>
+									<dict>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>16390755</integer>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%ActionResult%</string>
+												<key>Variable</key>
+												<string>local_result</string>
+											</dict>
+										</array>
+										<key>ConditionType</key>
+										<string>IsNot</string>
+										<key>TestValue</key>
+										<string>OK</string>
+									</dict>
+								</array>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>Switch</string>
+								<key>Source</key>
+								<string>Text</string>
+								<key>Text</key>
+								<string>%ActionResult%</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>DisplayWindow</string>
+						<key>ActionUID</key>
+						<integer>16390754</integer>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC6pAQAAKwAAAAEA
+						AAChAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmbmlsXGZjaGFyc2V0MCBI
+						ZWx2ZXRpY2FOZXVlO30Ke1xjb2xv
+						cnRibDtccmVkMjU1XGdyZWVuMjU1
+						XGJsdWUyNTU7XHJlZDBcZ3JlZW4w
+						XGJsdWUwO30Ke1wqXGV4cGFuZGVk
+						Y29sb3J0Ymw7O1xjc3NyZ2JcYzBc
+						YzBcYzBcYzg0NzA2XGNuYW1lIGNv
+						bnRyb2xUZXh0Q29sb3I7fQpccGFy
+						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
+						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
+						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
+						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
+						XHBhcmRpcm5hdHVyYWxccGFydGln
+						aHRlbmZhY3RvcjAKClxmMFxmczI2
+						IFxjZjIgVGhlIHJlc3VsdCBpczog
+						JVZhcmlhYmxlJWxvY2FsX3Jlc3Vs
+						dCV9AQAAACMAAAABAAAABwAAAFRY
+						VC5ydGYQAAAA4zEpZ7YBAAAAAAAA
+						AAAAAA==
+						</data>
+						<key>Text</key>
+						<string>The result is: %Variable%local_result%</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>752445178.661605</real>
+				<key>ModificationDate</key>
+				<real>752454140.29114401</real>
+				<key>Name</key>
+				<string>CWM-HELPER: Check WindowSetFrameAnimationTime</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>E3F1B027-5982-4F65-BEB5-A8E61B10F4FD</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Cycling Window Manager 0.4.1</string>
+		<key>ToggleMacroUID</key>
+		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
+		<key>UID</key>
+		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>752380181.82119703</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionName</key>
+						<string>Calculate index</string>
+						<key>ActionUID</key>
+						<integer>16390216</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Text</string>
+									<key>Text</key>
+									<string>%Dictionary[gaufde_CWM, window_cycle_namespace]%</string>
+									<key>TextConditionType</key>
+									<string>Contains</string>
+									<key>TextValue</key>
+									<string>%local_window_cycle_namespace%</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16394289</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>1</string>
+								<key>Variable</key>
+								<string>local_cycle_index</string>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16394288</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Dictionary[gaufde_CWM, next_window_cycle_index]%</string>
+								<key>Variable</key>
+								<string>local_cycle_index</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16392853</integer>
+						<key>Dictionary</key>
+						<string>gaufde_CWM</string>
+						<key>Key</key>
+						<string>next_window_cycle_index</string>
+						<key>MacroActionType</key>
+						<string>SetDictionaryValue</string>
+						<key>Value</key>
+						<string>%Calculate%(local_cycle_index MOD local_number_of_cycles) + 1%</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16392862</integer>
+						<key>Dictionary</key>
+						<string>gaufde_CWM</string>
+						<key>Key</key>
+						<string>window_cycle_namespace</string>
+						<key>MacroActionType</key>
+						<string>SetDictionaryValue</string>
+						<key>Value</key>
+						<string>%local_window_cycle_namespace%</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16390224</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Return</string>
+						<key>Text</key>
+						<string>%Variable%local_cycle_index%</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>752375555.68639004</real>
+				<key>CustomIconData</key>
+				<string>KMEP-ControlFlow</string>
+				<key>ModificationDate</key>
+				<real>752870976.84009898</real>
+				<key>Name</key>
+				<string>CWM-SUB: Calculate cycling index</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>Subroutine</string>
+						<key>Parameters</key>
+						<array>
+							<string>local_window_cycle_namespace</string>
+							<string>local_number_of_cycles</string>
+						</array>
+						<key>ReturnsValue</key>
+						<true/>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>916FFA74-41D9-40F7-8286-CDA3CF3C684E</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -3672,9 +3406,7 @@
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -3944,6 +3676,8 @@
 								<true/>
 							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>IfThenElse</string>
 						<key>ThenActions</key>
@@ -4006,7 +3740,7 @@
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=↓=86=0=0=0=KMCOLOR:0,0,0,255</string>
 				<key>ModificationDate</key>
-				<real>752746572.45988095</real>
+				<real>752868848.38334095</real>
 				<key>Name</key>
 				<string>CWM Window Down</string>
 				<key>Triggers</key>
@@ -4027,7 +3761,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -4045,368 +3779,469 @@
 				<array>
 					<dict>
 						<key>ActionUID</key>
-						<integer>16393440</integer>
+						<integer>16391984</integer>
 						<key>MacroActionType</key>
-						<string>ExecuteSubroutine</string>
-						<key>MacroUID</key>
-						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
-						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
-						<key>ResultVariable</key>
-						<string>VarName</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Choose window frame coefficients</string>
-						<key>ActionUID</key>
-						<integer>16389767</integer>
-						<key>Conditions</key>
-						<dict>
-							<key>ConditionList</key>
-							<array>
-								<dict>
-									<key>ConditionType</key>
-									<string>Key</string>
-									<key>KeyCode</key>
-									<integer>124</integer>
-									<key>KeyConditionType</key>
-									<string>Down</string>
-								</dict>
-							</array>
-							<key>ConditionListMatch</key>
-							<string>All</string>
-						</dict>
-						<key>ElseActions</key>
-						<array>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16389769</integer>
-								<key>Conditions</key>
-								<dict>
-									<key>ConditionList</key>
-									<array>
-										<dict>
-											<key>ConditionType</key>
-											<string>Key</string>
-											<key>KeyCode</key>
-											<integer>126</integer>
-											<key>KeyConditionType</key>
-											<string>Down</string>
-										</dict>
-									</array>
-									<key>ConditionListMatch</key>
-									<string>All</string>
-								</dict>
-								<key>ElseActions</key>
-								<array>
-									<dict>
-										<key>ActionUID</key>
-										<integer>16389771</integer>
-										<key>Conditions</key>
-										<dict>
-											<key>ConditionList</key>
-											<array>
-												<dict>
-													<key>ConditionType</key>
-													<string>Key</string>
-													<key>KeyCode</key>
-													<integer>125</integer>
-													<key>KeyConditionType</key>
-													<string>Down</string>
-												</dict>
-											</array>
-											<key>ConditionListMatch</key>
-											<string>All</string>
-										</dict>
-										<key>ElseActions</key>
-										<array>
-											<dict>
-												<key>ActionUID</key>
-												<integer>16390226</integer>
-												<key>MacroActionType</key>
-												<string>ExecuteSubroutine</string>
-												<key>MacroUID</key>
-												<string>916FFA74-41D9-40F7-8286-CDA3CF3C684E</string>
-												<key>Parameters</key>
-												<array>
-													<string>left</string>
-													<string>4</string>
-												</array>
-												<key>ResultVariable</key>
-												<string>local_cycle_index</string>
-												<key>TimeOutAbortsMacro</key>
-												<true/>
-											</dict>
-											<dict>
-												<key>ActionUID</key>
-												<integer>16389794</integer>
-												<key>CaseEntries</key>
-												<array>
-													<dict>
-														<key>Actions</key>
-														<array>
-															<dict>
-																<key>ActionName</key>
-																<string>LEFT HALF</string>
-																<key>ActionUID</key>
-																<integer>16389773</integer>
-																<key>IsDisclosed</key>
-																<false/>
-																<key>MacroActionType</key>
-																<string>SetVariableToText</string>
-																<key>Text</key>
-																<string>0,0,0.5,1</string>
-																<key>Variable</key>
-																<string>local_coefficients</string>
-															</dict>
-														</array>
-														<key>ConditionType</key>
-														<string>Is</string>
-														<key>TestValue</key>
-														<string>1</string>
-													</dict>
-													<dict>
-														<key>Actions</key>
-														<array>
-															<dict>
-																<key>ActionName</key>
-																<string>LEFT THIRD</string>
-																<key>ActionUID</key>
-																<integer>16389796</integer>
-																<key>IsDisclosed</key>
-																<false/>
-																<key>MacroActionType</key>
-																<string>SetVariableToText</string>
-																<key>Text</key>
-																<string>0,0,0.3333,1</string>
-																<key>Variable</key>
-																<string>local_coefficients</string>
-															</dict>
-														</array>
-														<key>ConditionType</key>
-														<string>Is</string>
-														<key>TestValue</key>
-														<string>2</string>
-													</dict>
-													<dict>
-														<key>Actions</key>
-														<array>
-															<dict>
-																<key>ActionName</key>
-																<string>LEFT TWO THIRD</string>
-																<key>ActionUID</key>
-																<integer>16389797</integer>
-																<key>IsDisclosed</key>
-																<false/>
-																<key>MacroActionType</key>
-																<string>SetVariableToText</string>
-																<key>Text</key>
-																<string>0,0,0.6667,1</string>
-																<key>Variable</key>
-																<string>local_coefficients</string>
-															</dict>
-														</array>
-														<key>ConditionType</key>
-														<string>Is</string>
-														<key>TestValue</key>
-														<string>3</string>
-													</dict>
-													<dict>
-														<key>Actions</key>
-														<array>
-															<dict>
-																<key>ActionName</key>
-																<string>VERTICAL MIDDLE THIRD</string>
-																<key>ActionUID</key>
-																<integer>16389798</integer>
-																<key>IsDisclosed</key>
-																<false/>
-																<key>MacroActionType</key>
-																<string>SetVariableToText</string>
-																<key>Text</key>
-																<string>0.3333,0,0.3333,1</string>
-																<key>Variable</key>
-																<string>local_coefficients</string>
-															</dict>
-														</array>
-														<key>ConditionType</key>
-														<string>Is</string>
-														<key>TestValue</key>
-														<string>4</string>
-													</dict>
-												</array>
-												<key>IsDisclosed</key>
-												<false/>
-												<key>MacroActionType</key>
-												<string>Switch</string>
-												<key>Source</key>
-												<string>Variable</string>
-												<key>Variable</key>
-												<string>local_cycle_index</string>
-											</dict>
-										</array>
-										<key>MacroActionType</key>
-										<string>IfThenElse</string>
-										<key>ThenActions</key>
-										<array>
-											<dict>
-												<key>ActionName</key>
-												<string>BOTTOM LEFT</string>
-												<key>ActionUID</key>
-												<integer>16389772</integer>
-												<key>IsDisclosed</key>
-												<false/>
-												<key>MacroActionType</key>
-												<string>SetVariableToText</string>
-												<key>Text</key>
-												<string>0,0.5,0.5,0.5</string>
-												<key>Variable</key>
-												<string>local_coefficients</string>
-											</dict>
-											<dict>
-												<key>ActionUID</key>
-												<integer>16396377</integer>
-												<key>Dictionary</key>
-												<string>gaufde_CWM</string>
-												<key>IsDisclosed</key>
-												<false/>
-												<key>Key</key>
-												<string>window_cycle_namespace</string>
-												<key>MacroActionType</key>
-												<string>SetDictionaryValue</string>
-												<key>Value</key>
-												<string>reset</string>
-											</dict>
-										</array>
-										<key>TimeOutAbortsMacro</key>
-										<true/>
-									</dict>
-								</array>
-								<key>MacroActionType</key>
-								<string>IfThenElse</string>
-								<key>ThenActions</key>
-								<array>
-									<dict>
-										<key>ActionName</key>
-										<string>TOP LEFT</string>
-										<key>ActionUID</key>
-										<integer>16389770</integer>
-										<key>IsDisclosed</key>
-										<false/>
-										<key>MacroActionType</key>
-										<string>SetVariableToText</string>
-										<key>Text</key>
-										<string>0,0,0.5,0.5</string>
-										<key>Variable</key>
-										<string>local_coefficients</string>
-									</dict>
-									<dict>
-										<key>ActionUID</key>
-										<integer>16396376</integer>
-										<key>Dictionary</key>
-										<string>gaufde_CWM</string>
-										<key>IsDisclosed</key>
-										<false/>
-										<key>Key</key>
-										<string>window_cycle_namespace</string>
-										<key>MacroActionType</key>
-										<string>SetDictionaryValue</string>
-										<key>Value</key>
-										<string>reset</string>
-									</dict>
-								</array>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-							</dict>
-						</array>
-						<key>MacroActionType</key>
-						<string>IfThenElse</string>
-						<key>ThenActions</key>
-						<array>
-							<dict>
-								<key>ActionName</key>
-								<string>FULL SCREEN</string>
-								<key>ActionUID</key>
-								<integer>16389768</integer>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>0,0,1,1</string>
-								<key>Variable</key>
-								<string>local_coefficients</string>
-							</dict>
-							<dict>
-								<key>ActionUID</key>
-								<integer>16396375</integer>
-								<key>Dictionary</key>
-								<string>gaufde_CWM</string>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>Key</key>
-								<string>window_cycle_namespace</string>
-								<key>MacroActionType</key>
-								<string>SetDictionaryValue</string>
-								<key>Value</key>
-								<string>reset</string>
-							</dict>
-						</array>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16396803</integer>
-						<key>MacroActionType</key>
-						<string>ExecuteSubroutine</string>
-						<key>MacroUID</key>
-						<string>B2E9B730-970F-4B31-9CA6-715E0A902B7F</string>
-						<key>Parameters</key>
-						<array>
-							<string>%Variable%local_coefficients[1]%</string>
-							<string>%Variable%local_coefficients[2]%</string>
-							<string>%Variable%local_coefficients[3]%</string>
-							<string>%Variable%local_coefficients[4]%</string>
-							<string>false</string>
-						</array>
-						<key>ResultVariable</key>
-						<string>VarName</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5+IwAAKwAAAAEA
+						AAB2IwAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYS1Cb2xkO1xmMVxm
+						c3dpc3NcZmNoYXJzZXQwIEhlbHZl
+						dGljYTtcZjJcZm5pbFxmY2hhcnNl
+						dDAgTHVjaWRhR3JhbmRlOwpcZjNc
+						Zm5pbFxmY2hhcnNldDAgTHVjaWRh
+						R3JhbmRlLUJvbGQ7fQp7XGNvbG9y
+						dGJsO1xyZWQyNTVcZ3JlZW4yNTVc
+						Ymx1ZTI1NTtccmVkMFxncmVlbjBc
+						Ymx1ZTA7fQp7XCpcZXhwYW5kZWRj
+						b2xvcnRibDs7XGNzc3JnYlxjMFxj
+						MFxjMFxjODQ3MDZcY25hbWUgY29u
+						dHJvbFRleHRDb2xvcjt9ClxwYXJk
+						XHR4NTYwXHR4MTEyMFx0eDE2ODBc
+						dHgyMjQwXHR4MjgwMFx0eDMzNjBc
+						dHgzOTIwXHR4NDQ4MFx0eDUwNDBc
+						dHg1NjAwXHR4NjE2MFx0eDY3MjBc
+						cGFyZGlybmF0dXJhbFxwYXJ0aWdo
+						dGVuZmFjdG9yMAoKXGYwXGJcZnMy
+						NiBcY2YyIFwnOTdUaGlzIGlzIHRo
+						ZSBDeWNsaW5nIFdpbmRvdyBNYW5h
+						Z2VyXCc5NwpcZjFcYjAgXApcCldy
+						aXR0ZW4gYnkgQGdhdWZkZVwKXHBh
+						cmRcdHg1NjBcdHgxMTIwXHR4MTY4
+						MFx0eDIyNDBcdHgyODAwXHR4MzM2
+						MFx0eDM5MjBcdHg0NDgwXHR4NTA0
+						MFx0eDU2MDBcdHg2MTYwXHR4Njcy
+						MFxwYXJkaXJuYXR1cmFsXHBhcnRp
+						Z2h0ZW5mYWN0b3IwCntcZmllbGR7
+						XCpcZmxkaW5zdHtIWVBFUkxJTksg
+						Imh0dHBzOi8vZ2l0aHViLmNvbS9n
+						YXVmZGUifX17XGZsZHJzbHQgXGNm
+						MiBodHRwczovL2dpdGh1Yi5jb20v
+						Z2F1ZmRlfX1cClwKXHBhcmRcdHg1
+						NjBcdHgxMTIwXHR4MTY4MFx0eDIy
+						NDBcdHgyODAwXHR4MzM2MFx0eDM5
+						MjBcdHg0NDgwXHR4NTA0MFx0eDU2
+						MDBcdHg2MTYwXHR4NjcyMFxwYXJk
+						aXJuYXR1cmFsXHBhcnRpZ2h0ZW5m
+						YWN0b3IwCgpcZjBcYiBcY2YyIFwn
+						OTdGZWF0dXJlc1wnOTdcClwKXHBh
+						cmRcdHg1NjBcdHgxMTIwXHR4MTY4
+						MFx0eDIyNDBcdHgyODAwXHR4MzM2
+						MFx0eDM5MjBcdHg0NDgwXHR4NTA0
+						MFx0eDU2MDBcdHg2MTYwXHR4Njcy
+						MFxwYXJkaXJuYXR1cmFsXHBhcnRp
+						Z2h0ZW5mYWN0b3IwCgpcZjFcYjAg
+						XGNmMiBUaGUgcG9pbnQgb2YgdGhp
+						cyBtYWNybyBncm91cCBpcyB0byBt
+						YWtlIGl0IGVhc3kgdG8gc2l6ZSBh
+						bmQgbW92ZSB3aW5kb3cgb24gbXVs
+						dGlwbGUgc2NyZWVucy5cClwKVGhl
+						c2UgbWFjcm9zIHN1cHBvcnQ6XApc
+						Jzk2IEFueSBudW1iZXIgb2YgbW9u
+						aXRvcnMvc2NyZWVuc1wKXCc5NiBN
+						b3ZlIHRoZSBmcm9udCB3aW5kb3cg
+						dG8gYW55IGhhbGYgb2YgdGhlIHNj
+						cmVlbiB3aXRoIGEgaG90a2V5IGNv
+						bW1hbmRcClwnOTYgTW92ZSB0aGUg
+						ZnJvbnQgd2luZG93IHRvIGFueSBx
+						dWFydGVyIG9mIHRoZSBzY3JlZW4s
+						IG9yIGZpbGwgdGhlIHNjcmVlbiB3
+						aXRoIGEgY29tcG91bmQgaG90a2V5
+						IGNvbW1hbmQgKHNpbWlsYXIgdG8g
+						dGhlIFdpbk1vdmVyIG1hY3JvcyBi
+						eSBAY2ZyaWVuZClcClwnOTYgTW92
+						ZSB0aGUgZnJvbnQgd2luZG93IHRv
+						IGFueSB0aGlyZCBvZiB0aGUgc2Ny
+						ZWVuIGJ5IHJlcGVhdGVkbHkgY3lj
+						bGluZyB0aGUgaG90a2V5IGNvbW1h
+						bmRzIChzaW1pbGFyIHRvIGhvdyBS
+						YXljYXN0IGRvZXMgaXQpXApcJzk2
+						IE1vdmUgdGhlIGZyb250IHdpbmRv
+						dyB0byB0aGUgY2VudGVyIG9mIHRo
+						ZSBzY3JlZW5cClwnOTYgTW92ZSB0
+						aGUgZnJvbnQgd2luZG93IHRvIHRo
+						ZSBjZW50ZXIgb2YgdGhlIHNjcmVl
+						biB3aXRob3V0IHJlc2l6aW5nXApc
+						Jzk2IE1vdmUgdGhlIGZyb250IHdp
+						bmRvdyB0byB0aGUgcHJldmlvdXMg
+						c2l6ZSBhbmQgcG9zaXRpb24gdG8g
+						XCc5M3VuZG9cJzk0IGEgbW92ZS5c
+						ClwnOTYgVGhyb3cgdGhlIGZyb250
+						IHdpbmRvdyB0byB0aGUgbmV4dC9w
+						cmV2aW91cyBzY3JlZW4gKG1haW50
+						YWluaW5nIHJlbGF0aXZlIHNpemUg
+						YW5kIHBvc2l0aW9uKVwKXApcClxw
+						YXJkXHR4NTYwXHR4MTEyMFx0eDE2
+						ODBcdHgyMjQwXHR4MjgwMFx0eDMz
+						NjBcdHgzOTIwXHR4NDQ4MFx0eDUw
+						NDBcdHg1NjAwXHR4NjE2MFx0eDY3
+						MjBccGFyZGlybmF0dXJhbFxwYXJ0
+						aWdodGVuZmFjdG9yMAoKXGYwXGIg
+						XGNmMiBcJzk3UmVxdWlyZW1lbnRz
+						XCc5N1wKXHBhcmRcdHg1NjBcdHgx
+						MTIwXHR4MTY4MFx0eDIyNDBcdHgy
+						ODAwXHR4MzM2MFx0eDM5MjBcdHg0
+						NDgwXHR4NTA0MFx0eDU2MDBcdHg2
+						MTYwXHR4NjcyMFxwYXJkaXJuYXR1
+						cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
+						CgpcZjFcYjAgXGNmMiBcClRoZXNl
+						IG1hY3JvcyB3ZXJlIHdyaXR0ZW4g
+						YW5kIHRlc3RlZCBpbiBLTSAxMS4w
+						LjMgb24gTWFjT1MgMTMuNy5cClxw
+						YXJkXHR4NTYwXHR4MTEyMFx0eDE2
+						ODBcdHgyMjQwXHR4MjgwMFx0eDMz
+						NjBcdHgzOTIwXHR4NDQ4MFx0eDUw
+						NDBcdHg1NjAwXHR4NjE2MFx0eDY3
+						MjBccGFyZGlybmF0dXJhbFxwYXJ0
+						aWdodGVuZmFjdG9yMAoKXGYwXGIg
+						XGNmMiBcClwnOTdFeGFtcGxlIFVz
+						YWdlXCc5N1wKXApccGFyZFx0eDU2
+						MFx0eDExMjBcdHgxNjgwXHR4MjI0
+						MFx0eDI4MDBcdHgzMzYwXHR4Mzky
+						MFx0eDQ0ODBcdHg1MDQwXHR4NTYw
+						MFx0eDYxNjBcdHg2NzIwXHBhcmRp
+						cm5hdHVyYWxccGFydGlnaHRlbmZh
+						Y3RvcjAKClxmMlxiMCBcY2YyIFx1
+						YzBcdTg5NjMgXHU4OTk3IFx1ODk4
+						NCBcdTg1OTIgClxmMFxiICAgICAg
+						ICAgICAgClxmMVxiMCA9IGxlZnQg
+						Y29sdW1uIChmaXJzdCBjeWNsZSlc
+						CgpcZjIgCVx1YzBcdTg5NjMgXHU4
+						OTk3IFx1ODk4NCBcdTg1OTIgClxm
+						MFxiICAgIApcZjFcYjAgPSBsZWZ0
+						IHRoaXJkIChzZWNvbmQgY3ljbGUp
+						XAoKXGYyIAlcdWMwXHU4OTYzIFx1
+						ODk5NyBcdTg5ODQgXHU4NTkyIApc
+						ZjBcYiAgICAKXGYxXGIwID0gbGVm
+						dCB0d28tdGhpcmRzICh0aGlyZCBj
+						eWNsZSlcCgpcZjIgCVx1YzBcdTg5
+						NjMgXHU4OTk3IFx1ODk4NCBcdTg1
+						OTIgClxmMFxiICAgIApcZjFcYjAg
+						PSBtaWRkbGUgdGhpcmQgKGZvdXJ0
+						aCBjeWNsZSlcClwKTm90ZTogU2lt
+						aWxhciBiZWhhdmlvciBpcyBhdmFp
+						bGFibGUgZm9yIApcZjIgXHVjMFx1
+						ODU5NCAsXHU4NTk1ICwgYW5kIFx1
+						ODU5MyAuIApcZjEgQWxzbywgIGRl
+						c3BpdGUgdGhlIGFuaW1hdGlvbiBv
+						ZiB0aGUgd2luZG93IG1vdGlvbiBi
+						ZWluZyBzbG93ZXIgaW4gS00gMTEu
+						MC4yKywgSSBoYXZlIHB1dCB3b3Jr
+						IGludG8gbWFraW5nIHN1cmUgdGhh
+						dCB0aGUgY3ljbGluZyBjYW4gaGFu
+						ZGxlIGZhc3QgaW5wdXRzLiBTaW1w
+						bHkgY291bnQgdGhlIG51bWJlciBv
+						ZiBrZXktcHJlc3NlcyBhbmQgdGhl
+						IHdpbmRvdyBzaG91bGQgdWx0aW1h
+						dGVseSBlbmQgdXAgaW4gdGhlIGNv
+						cnJlY3QgcG9zaXRpb24hXApcCgpc
+						ZjIgXHVjMFx1ODk2MyBcdTg5OTcg
+						XHU4OTg0IC4gClxmMFxiICAgICAg
+						ICAgICAgICAgClxmMVxiMCA9IENl
+						bnRlciB3aW5kb3cgb24gY3VycmVu
+						dCBzY3JlZW4gd2l0aG91dCByZXNp
+						emluZ1wKXAoKXGYyIFx1YzBcdTg5
+						NjMgXHU4OTk3IFx1ODk4NCAKXGYx
+						ICArIApcZjIgLwpcZjBcYiAgICAg
+						ICAgICAgIApcZjFcYjAgPSBjZW50
+						ZXIgaGFsZiBzaXplIChmaXJzdCBj
+						eWNsZSlcCgpcZjIgCVx1YzBcdTg5
+						NjMgXHU4OTk3IFx1ODk4NCAvClxm
+						MFxiICAgICAgICAKXGYxXGIwID0g
+						Y2VudGVyIDUvOCBzaXplIChzZWNv
+						bmQgY3ljbGUpXAoKXGYyIAlcdWMw
+						XHU4OTYzIFx1ODk5NyBcdTg5ODQg
+						LwpcZjBcYiAgICAgICAgClxmMVxi
+						MCA9IGNlbnRlciAzLzQgc2l6ZSAo
+						dGhpcmQgY3ljbGUpXAoKXGYyIAlc
+						dWMwXHU4OTYzIFx1ODk5NyBcdTg5
+						ODQgLwpcZjBcYiAgICAgICAgClxm
+						MVxiMCA9IGZ1bGwgc2NyZWVuIChm
+						b3VydGggY3ljbGUpXApccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKClxmMFxiIFxjZjIg
+						XApccGFyZFx0eDU2MFx0eDExMjBc
+						dHgxNjgwXHR4MjI0MFx0eDI4MDBc
+						dHgzMzYwXHR4MzkyMFx0eDQ0ODBc
+						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
+						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
+						cGFydGlnaHRlbmZhY3RvcjAKClxm
+						MlxiMCBcY2YyIFx1YzBcdTg5NjMg
+						XHU4OTk3IFx1ODk4NCBcdTg1OTIg
+						XHU4NTkzIApcZjNcYiAgICAgICAg
+						ClxmMVxiMCA9IHRvcCBsZWZ0IHF1
+						YWRyYW50IG9mIHRoZSBzY3JlZW5c
+						ClwKTm90ZTogc2ltaWxhciBiZWhh
+						dmlvciBpcyBhdmFpbGFibGUgZm9y
+						IApcZjIgXHVjMFx1ODU5MyBcdTg1
+						OTQgLFx1ODU5MiBcdTg1OTUgLCBh
+						bmQgXHU4NTk1IFx1ODU5NCAuClxm
+						MSBcClxwYXJkXHR4NTYwXHR4MTEy
+						MFx0eDE2ODBcdHgyMjQwXHR4Mjgw
+						MFx0eDMzNjBcdHgzOTIwXHR4NDQ4
+						MFx0eDUwNDBcdHg1NjAwXHR4NjE2
+						MFx0eDY3MjBccGFyZGlybmF0dXJh
+						bFxwYXJ0aWdodGVuZmFjdG9yMAoK
+						XGYwXGIgXGNmMiBcClwKXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjJcYjAgXGNm
+						MiBcdWMwXHU4OTYzIFx1ODk5NyBc
+						dTg5ODQgXHU4NTkyIFx1ODU5NCAg
+						ICAgIApcZjBcYiAgIApcZjFcYjAg
+						PSBmdWxsIHNjcmVlbgpcZjBcYiBc
+						CgpcZjJcYjAgXHVjMFx1ODk2MyBc
+						dTg5OTcgXHU4OTg0IFx1ODU5NSBc
+						dTg1OTMgClxmMFxiICAgICAgICAg
+						ICAKXGYxXGIwID0gZnVsbCBzY3Jl
+						ZW5cClwKTm90ZTogdGhlc2UgY29t
+						cG91bmQgaG90a2V5cyBhcmUgbW9z
+						dCByZWxpYWJsZSBpZiB5b3UgaG9s
+						ZCB0aGUga2V5cyBkb3duIGZvciBq
+						dXN0IGEgbW9tZW50IGxvbmdlciB0
+						aGFuIHlvdSB3b3VsZCBhIG5vcm1h
+						bCBwcmVzcy5cClwKXAoKXGYyIFx1
+						YzBcdTg5NjMgXHU4OTk3IFx1ODk4
+						NCBaClxmMFxiICAgICAgICAgICAg
+						IApcZjFcYjAgPSBjeWNsZSB0aHJv
+						dWdoIHRoZSBwcmV2aW91cyB3aW5k
+						b3cgZnJhbWVzIGZvciB0aGUgY3Vy
+						cmVudCB3aW5kb3cuXApcCgpcZjIg
+						XHVjMFx1ODk2MyBcdTg5OTcgXHU4
+						NTkyIApcZjBcYiAgICAgICAgICAg
+						ICAgIApcZjFcYjAgPSBUaHJvdyB3
+						aW5kb3cgdG8gcHJldmlvdXMgc2Ny
+						ZWVuXAoKXGYyIFx1YzBcdTg5NjMg
+						XHU4OTk3IFx1ODU5MiAKXGYwXGIg
+						ICAgICAgICAgICAgICAKXGYxXGIw
+						ID0gVGhyb3cgd2luZG93IHRvIG5l
+						eHQgc2NyZWVuXApcClxwYXJkXHR4
+						NTYwXHR4MTEyMFx0eDE2ODBcdHgy
+						MjQwXHR4MjgwMFx0eDMzNjBcdHgz
+						OTIwXHR4NDQ4MFx0eDUwNDBcdHg1
+						NjAwXHR4NjE2MFx0eDY3MjBccGFy
+						ZGlybmF0dXJhbFxwYXJ0aWdodGVu
+						ZmFjdG9yMAoKXGYwXGIgXGNmMiBc
+						Jzk3UGFyYW1ldGVyc1wnOTdcClwK
+						XHBhcmRcdHg1NjBcdHgxMTIwXHR4
+						MTY4MFx0eDIyNDBcdHgyODAwXHR4
+						MzM2MFx0eDM5MjBcdHg0NDgwXHR4
+						NTA0MFx0eDU2MDBcdHg2MTYwXHR4
+						NjcyMFxwYXJkaXJuYXR1cmFsXHBh
+						cnRpZ2h0ZW5mYWN0b3IwCgpcZjFc
+						YjAgXGNmMiBZb3UgY2FuIGFkanVz
+						dCB0aGUgdGltZW91dCBiZWZvcmUg
+						dGhlIGN5Y2xpbmcgcmVzZXRzIGlu
+						IHRoZSBgQ1dNLVNVQjogSW5pdGAg
+						bWFjcm8uXApcCklmIHlvdSB3YW50
+						LCB5b3UgY2FuIHJlbW92ZSB0aGUg
+						YW5pbWF0aW9uIGRlbGF5IHRoYXQg
+						S00gYWRkZWQgaW4gMTEuMC4yLiBT
+						aW1wbHkgcnVuIHRoZSBgQ1dNLUhF
+						TFBFUjogU2V0IFdpbmRvd1NldEZy
+						YW1lQW5pbWF0aW9uVGltZWAgbWFj
+						cm8gdXNpbmcgdGhlIFwnOTNUcnlc
+						Jzk0IGJ1dHRvbiBpbiB0aGUgS00g
+						R1VJLiBJZiB5b3UgaGF2ZSBpc3N1
+						ZXMgd2l0aCB3aW5kb3dzIG1vdmlu
+						ZyB1bnJlbGlhYmx5LCB0aGVuIHVz
+						ZSB0aGUgYENXTS1IRUxQRVI6IFJl
+						c2V0IFdpbmRvd1NldEZyYW1lQW5p
+						bWF0aW9uVGltZWAgbWFjcm8gdG8g
+						cmV2ZXJ0IGJhY2sgdG8gdGhlIGRl
+						ZmF1bHQgc2V0dGluZ3MuXApcClxw
+						YXJkXHR4NTYwXHR4MTEyMFx0eDE2
+						ODBcdHgyMjQwXHR4MjgwMFx0eDMz
+						NjBcdHgzOTIwXHR4NDQ4MFx0eDUw
+						NDBcdHg1NjAwXHR4NjE2MFx0eDY3
+						MjBccGFyZGlybmF0dXJhbFxwYXJ0
+						aWdodGVuZmFjdG9yMAoKXGYwXGIg
+						XGNmMiBcJzk3RXh0ZW5kaW5nXCc5
+						N1wKXHBhcmRcdHg1NjBcdHgxMTIw
+						XHR4MTY4MFx0eDIyNDBcdHgyODAw
+						XHR4MzM2MFx0eDM5MjBcdHg0NDgw
+						XHR4NTA0MFx0eDU2MDBcdHg2MTYw
+						XHR4NjcyMFxwYXJkaXJuYXR1cmFs
+						XHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
+						ZjFcYjAgXGNmMiBJdCBzaG91bGQg
+						YmUgcmVsYXRpdmVseSBlYXN5IHRv
+						IGV4dGVuZCB0aGVzZSBtYWNyb3Mg
+						aWYgeW91IHdhbnQgdG8gY3VzdG9t
+						aXplIHRoZW0gb3IgYWRkIGZ1bmN0
+						aW9uYWxpdHkuXApcClRoZSBleGlz
+						dGluZyBtYWNyb3Mgc2hvdWxkIHNl
+						cnZlIGFzIGEgZ3VpZGUuIER1cGxp
+						Y2F0ZSB0aGUgb25lIG1vc3Qgc2lt
+						aWxhciB0byB3aGF0IHlvdSB3YW50
+						IGFuZCBlZGl0IGl0IGZyb20gdGhl
+						cmUuXApcClRoYXQgc2FpZCwgaGVy
+						ZSBhcmUgYSBjb3VwbGUgb2YgaW1w
+						b3J0YW50IGd1aWRlbGluZXM6XApc
+						CjEuIFVzZSB5b3VyIG93biBgd2lu
+						ZG93X2N5Y2xlX25hbWVzcGFjZWAg
+						Zm9yIG5ldyBmdW5jdGlvbmFsaXR5
+						LiBUaGUgbmFtZXNwYWNlcyBjdXJy
+						ZW50bHkgdXNlZCBhcmUgYHVwYCwg
+						YGRvd25gLCBgbGVmdGAsIGByaWdo
+						dGAsIGBjZW50ZXJgLCBgdW5kb2As
+						IGFuZCBgcmVzZXRgLiBZb3Ugd2ls
+						bCBjaG9vc2UgYSBuYW1lc3BhY2Ug
+						d2hlbiBjYWxsaW5nIGBDV00tU1VC
+						OiBDYWxjdWxhdGUgY3ljbGluZyBp
+						bmRleGAsIG9yIHlvdSBjYW4gd3Jp
+						dGUgdG8gdGhlIGRpY3Rpb25hcnkg
+						ZGlyZWN0bHkuIElmIHlvdSBuZWVk
+						IHRvIGZvcmNlIHRoZSBjeWNsZSB0
+						byByZXNldCwgdGhlbiBzZXQgYHdp
+						bmRvd19jeWNsZV9uYW1lc3BhY2Vg
+						IGluIHRoZSBkaWN0aW9uYXJ5IHRv
+						IGByZXNldGAgZGlyZWN0bHkuIFwK
+						XAoyLiBXaGVuIHVzaW5nIGBDV00t
+						U1VCOiBNb3ZlIHdpbmRvdyB0byBw
+						b3NpdGlvbmAsIHRoZSBsYXN0IHBh
+						cmFtZXRlciBhbGxvd3MgeW91IHRv
+						IGNob29zZSBiZXR3ZWVuIHBhc3Np
+						bmcgY29lZmZpY2llbnRzIG9ubHks
+						IG9yIHBhc3NpbmcgdGhlIHZhbHVl
+						cyBkaXJlY3RseS4gQ29lZmZpY2ll
+						bnRzIGFyZSBlYXNpZXN0IHdoZW4g
+						d29ya2luZyB3aXRoIGZyYWN0aW9u
+						cyBvZiB0aGUgc2NyZWVuIHNpemUs
+						IGJ1dCBzb21ldGltZSBtb3JlIGZs
+						ZXhpYmlsaXR5IGlzIG5lZWRlZC4g
+						U2VlIGBDV00gV2luZG93IENlbnRl
+						ciBNb3ZlIE9ubHlgIGZvciBhbiBl
+						eGFtcGxlIG9mIHBhc3NpbmcgdmFs
+						dWVzIGRpcmVjdGx5LlwKXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcYiBcY2Yy
+						IFwKXCc5N0NoYW5nZSBMb2dcJzk3
+						XApcCjAuMS4wClxmMVxiMCBcCi0g
+						Rmlyc3QgdGVzdCB2ZXJzaW9uXApc
+						CgpcZjBcYiAwLjIuMFwKXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjFcYjAgXGNm
+						MiAtIENvbnN0cmFpbiB1bmRvIGhp
+						c3RvcnkgdG8gY3VycmVudCB3aW5k
+						b3cgb25seVwKLSBJbXByb3ZlIHRy
+						YWNraW5nIGZvciB3aGVuIGN5Y2xl
+						cyBzaG91bGQgYmUgcmVzZXRcCi0g
+						Q2hhbmdlIGRlZmF1bHQgc2hvcnRj
+						dXQgZm9yIGBDV00gV2luZG93IENl
+						bnRlciBNYWNyb2BcClwKXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcYiBcY2Yy
+						IDAuMy4wXApccGFyZFx0eDU2MFx0
+						eDExMjBcdHgxNjgwXHR4MjI0MFx0
+						eDI4MDBcdHgzMzYwXHR4MzkyMFx0
+						eDQ0ODBcdHg1MDQwXHR4NTYwMFx0
+						eDYxNjBcdHg2NzIwXHBhcmRpcm5h
+						dHVyYWxccGFydGlnaHRlbmZhY3Rv
+						cjAKClxmMVxiMCBcY2YyIC0gRml4
+						IGJ1ZyB3aGVyZSBjeWNsZSB3b3Vs
+						ZCBub3QgcmVzZXQgYWZ0ZXIgbW92
+						aW5nIGEgd2luZG93IHdpdGggYSBj
+						b21wb3VuZCBzaG9ydGN1dCAoZS5n
+						LiBhIHF1YWRyYW50KVwKLSBBZGQg
+						Y29tbWFuZCBmb3IgY2VudGVyaW5n
+						IGEgd2luZG93IHdpdGhvdXQgcmVz
+						aXppbmdcCi0gUmVjb3JkIHVubGlt
+						aXRlZCB1bmRvIGhpc3RvcnlcCi0g
+						SW1wcm92ZSByZWxpYWJpbGl0eSBv
+						ZiB1bmRvIGZ1bmN0aW9uXApcClxw
+						YXJkXHR4NTYwXHR4MTEyMFx0eDE2
+						ODBcdHgyMjQwXHR4MjgwMFx0eDMz
+						NjBcdHgzOTIwXHR4NDQ4MFx0eDUw
+						NDBcdHg1NjAwXHR4NjE2MFx0eDY3
+						MjBccGFyZGlybmF0dXJhbFxwYXJ0
+						aWdodGVuZmFjdG9yMAoKXGYwXGIg
+						XGNmMiAwLjQuMApcZjFcYjAgXAot
+						IFJlZmFjdG9yIHdpbmRvdyBtb3Zl
+						IGZ1bmN0aW9uIHRvIHdvcmsgd2l0
+						aCBlaXRoZXIgY29lZmZpY2llbnRz
+						IG9yIGRpcmVjdCB2YWx1ZXNcCi0g
+						UmVmYWN0b3IgdG8gY29tYmluZSBj
+						YW5jZWxsaW5nIG9sZCBpbnN0YW5j
+						ZXMsIHJlamVjdCBzaW11bHRhbmVv
+						dXMgbW92ZXMsIGFuZCBuZXcgZnVu
+						Y3Rpb25hbGl0eSBpbnRvIEluaXQg
+						c3VibWFjcm9cCi0gVW4tZG9uZSBo
+						aXN0b3J5IGlzIG5vdyBvdmVyd3Jp
+						dHRlbiBpZiB5b3Ugc3RhcnQgdG8g
+						bWFrZSBuZXcgaGlzdG9yeSBmcm9t
+						IGEgcG9pbnQgaW4gdGhlIHBhc3Qg
+						KHRoZSB3YXkgeW91IGV4cGVjdCB1
+						bmRvIHRvIHdvcmspXAotIEFkZCBj
+						eWNsaW5nIHRpbWVvdXQgZm9yIGFs
+						bCBjeWNsZXMgZXhjZXB0IHVuZG8g
+						KHNldCB0byAxMCBzZWNvbmRzKVwK
+						LSBSZW1vdmUgcmVzZXQgY3ljbGUg
+						ZmxhZyBpbiBmYXZvciBvZiBuYW1l
+						c3BhY2VzXAotIFJlbmFtZSBgd2lu
+						ZG93X2N5Y2xlX2RpcmVjdGlvbmAg
+						dG8gYHdpbmRvd19jeWNsZV9uYW1l
+						c3BhY2VgXApcCgpcZjBcYiAwLjQu
+						MVwKXHBhcmRcdHg1NjBcdHgxMTIw
+						XHR4MTY4MFx0eDIyNDBcdHgyODAw
+						XHR4MzM2MFx0eDM5MjBcdHg0NDgw
+						XHR4NTA0MFx0eDU2MDBcdHg2MTYw
+						XHR4NjcyMFxwYXJkaXJuYXR1cmFs
+						XHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
+						ZjFcYjAgXGNmMiAtIFJlbW92ZSB0
+						aGUgbW9zdGx5IHVudXNlZCBwYXJh
+						bWV0ZXIgb24gYENXTS1TVUI6IElu
+						aXRgIGluIGZhdm9yIG9mIGEgbW9y
+						ZSBoaWRkZW4gaW5zdGFuY2UgdmFy
+						aWFibGUuXAotIFVwZGF0ZXMgdG8g
+						UkVBRCBNRVwKLSB9AQAAACMAAAAB
+						AAAABwAAAFRYVC5ydGYQAAAAHbwv
+						Z7YBAAAAAAAAAAAAAA==
+						</data>
+						<key>Title</key>
+						<string>Info</string>
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>752374299.54396403</real>
+				<real>752454262.58056796</real>
 				<key>CustomIconData</key>
-				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=←=86=0=0=0=KMCOLOR:0,0,0,255</string>
+				<string>KMEP-AlertStop</string>
 				<key>ModificationDate</key>
-				<real>752746581.02271402</real>
+				<real>752874396.65774703</real>
 				<key>Name</key>
-				<string>CWM Window Left</string>
+				<string>CWM READ ME</string>
 				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>123</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>6400</integer>
-					</dict>
-				</array>
+				<array/>
 				<key>UID</key>
-				<string>562DCE0B-BC68-48A1-BBBA-3C06562967D5</string>
+				<string>BFF8B875-616D-49F2-89AC-B20D0EF39CA7</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -4628,158 +4463,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
-		<key>ToggleMacroUID</key>
-		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
-		<key>UID</key>
-		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>752380181.82119703</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16393442</integer>
-						<key>MacroActionType</key>
-						<string>ExecuteSubroutine</string>
-						<key>MacroUID</key>
-						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
-						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
-						<key>ResultVariable</key>
-						<string>VarName</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390740</integer>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>SetVariableToCalculation</string>
-						<key>Text</key>
-						<string>SCREENCOUNT()</string>
-						<key>UseFormat</key>
-						<false/>
-						<key>Variable</key>
-						<string>local_screen_count</string>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Cancel if single screen</string>
-						<key>ActionUID</key>
-						<integer>16390715</integer>
-						<key>Calculation</key>
-						<string>local_screen_count</string>
-						<key>CaseEntries</key>
-						<array>
-							<dict>
-								<key>Actions</key>
-								<array>
-									<dict>
-										<key>Action</key>
-										<string>CancelJustThisMacro</string>
-										<key>ActionUID</key>
-										<integer>16390716</integer>
-										<key>MacroActionType</key>
-										<string>Cancel</string>
-									</dict>
-								</array>
-								<key>ConditionType</key>
-								<string>Is</string>
-								<key>TestValue</key>
-								<string>1</string>
-							</dict>
-						</array>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>Switch</string>
-						<key>Source</key>
-						<string>Calculation</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390718</integer>
-						<key>MacroActionType</key>
-						<string>SetVariableToCalculation</string>
-						<key>Text</key>
-						<string>SCREENINDEX(Front)</string>
-						<key>UseFormat</key>
-						<false/>
-						<key>Variable</key>
-						<string>local_current_screen_index</string>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Decrement screen index</string>
-						<key>ActionUID</key>
-						<integer>16390717</integer>
-						<key>MacroActionType</key>
-						<string>SetVariableToCalculation</string>
-						<key>Text</key>
-						<string>((local_current_screen_index - 2 + local_screen_count) MOD local_screen_count) + 1</string>
-						<key>UseFormat</key>
-						<false/>
-						<key>Variable</key>
-						<string>local_target_screen_index</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>16390719</integer>
-						<key>MacroActionType</key>
-						<string>ExecuteSubroutine</string>
-						<key>MacroUID</key>
-						<string>76DBE68E-26D4-4595-BF9F-012A1F1A5E30</string>
-						<key>Parameters</key>
-						<array>
-							<string>%WindowFrame%1%</string>
-							<string>%ScreenVisible%local_current_screen_index%</string>
-							<string>%ScreenVisible%local_target_screen_index%</string>
-						</array>
-						<key>ResultVariable</key>
-						<string>VarName</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>719865459.02540004</real>
-				<key>CustomIconData</key>
-				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=⭅=86=-2=8=0=KMCOLOR:0,0,0,255</string>
-				<key>ModificationDate</key>
-				<real>752741278.45151198</real>
-				<key>Name</key>
-				<string>CWM Throw to Previous Screen</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>123</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>6144</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>C26A1B15-A9BA-4C5C-BDA4-B7D65E6CD98A</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -4803,9 +4487,7 @@
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>true</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -5158,7 +4840,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
@@ -5175,6 +4857,18 @@
 				<key>Actions</key>
 				<array>
 					<dict>
+						<key>ActionName</key>
+						<string>Prevent the undo function from overwriting its own history. This is the only time this instance variable should be set.</string>
+						<key>ActionUID</key>
+						<integer>16397600</integer>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>true</string>
+						<key>Variable</key>
+						<string>instance_dont_restart_undo_history</string>
+					</dict>
+					<dict>
 						<key>ActionUID</key>
 						<integer>16393438</integer>
 						<key>MacroActionType</key>
@@ -5182,9 +4876,7 @@
 						<key>MacroUID</key>
 						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
 						<key>Parameters</key>
-						<array>
-							<string>false</string>
-						</array>
+						<array/>
 						<key>ResultVariable</key>
 						<string>VarName</string>
 						<key>TimeOutAbortsMacro</key>
@@ -5540,7 +5232,7 @@
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=↺=86=0=0=0=KMCOLOR:0,0,0,255</string>
 				<key>ModificationDate</key>
-				<real>752738516.74946702</real>
+				<real>752872907.56247997</real>
 				<key>Name</key>
 				<string>CWM Window Undo</string>
 				<key>Triggers</key>
@@ -5571,7 +5263,384 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>Cycling Window Manager 0.4.0</string>
+		<string>Cycling Window Manager 0.4.1</string>
+		<key>ToggleMacroUID</key>
+		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
+		<key>UID</key>
+		<string>6922C3A1-C8DA-4D45-AF0E-19CF40FC10DA</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>752380181.82119703</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16393440</integer>
+						<key>MacroActionType</key>
+						<string>ExecuteSubroutine</string>
+						<key>MacroUID</key>
+						<string>EA09FBDB-DA68-462F-A542-6546D505DA50</string>
+						<key>Parameters</key>
+						<array/>
+						<key>ResultVariable</key>
+						<string>VarName</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Choose window frame coefficients</string>
+						<key>ActionUID</key>
+						<integer>16389767</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Key</string>
+									<key>KeyCode</key>
+									<integer>124</integer>
+									<key>KeyConditionType</key>
+									<string>Down</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16389769</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Key</string>
+											<key>KeyCode</key>
+											<integer>126</integer>
+											<key>KeyConditionType</key>
+											<string>Down</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>ActionUID</key>
+										<integer>16389771</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Key</string>
+													<key>KeyCode</key>
+													<integer>125</integer>
+													<key>KeyConditionType</key>
+													<string>Down</string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>16390226</integer>
+												<key>MacroActionType</key>
+												<string>ExecuteSubroutine</string>
+												<key>MacroUID</key>
+												<string>916FFA74-41D9-40F7-8286-CDA3CF3C684E</string>
+												<key>Parameters</key>
+												<array>
+													<string>left</string>
+													<string>4</string>
+												</array>
+												<key>ResultVariable</key>
+												<string>local_cycle_index</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>16389794</integer>
+												<key>CaseEntries</key>
+												<array>
+													<dict>
+														<key>Actions</key>
+														<array>
+															<dict>
+																<key>ActionName</key>
+																<string>LEFT HALF</string>
+																<key>ActionUID</key>
+																<integer>16389773</integer>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>SetVariableToText</string>
+																<key>Text</key>
+																<string>0,0,0.5,1</string>
+																<key>Variable</key>
+																<string>local_coefficients</string>
+															</dict>
+														</array>
+														<key>ConditionType</key>
+														<string>Is</string>
+														<key>TestValue</key>
+														<string>1</string>
+													</dict>
+													<dict>
+														<key>Actions</key>
+														<array>
+															<dict>
+																<key>ActionName</key>
+																<string>LEFT THIRD</string>
+																<key>ActionUID</key>
+																<integer>16389796</integer>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>SetVariableToText</string>
+																<key>Text</key>
+																<string>0,0,0.3333,1</string>
+																<key>Variable</key>
+																<string>local_coefficients</string>
+															</dict>
+														</array>
+														<key>ConditionType</key>
+														<string>Is</string>
+														<key>TestValue</key>
+														<string>2</string>
+													</dict>
+													<dict>
+														<key>Actions</key>
+														<array>
+															<dict>
+																<key>ActionName</key>
+																<string>LEFT TWO THIRD</string>
+																<key>ActionUID</key>
+																<integer>16389797</integer>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>SetVariableToText</string>
+																<key>Text</key>
+																<string>0,0,0.6667,1</string>
+																<key>Variable</key>
+																<string>local_coefficients</string>
+															</dict>
+														</array>
+														<key>ConditionType</key>
+														<string>Is</string>
+														<key>TestValue</key>
+														<string>3</string>
+													</dict>
+													<dict>
+														<key>Actions</key>
+														<array>
+															<dict>
+																<key>ActionName</key>
+																<string>VERTICAL MIDDLE THIRD</string>
+																<key>ActionUID</key>
+																<integer>16389798</integer>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>SetVariableToText</string>
+																<key>Text</key>
+																<string>0.3333,0,0.3333,1</string>
+																<key>Variable</key>
+																<string>local_coefficients</string>
+															</dict>
+														</array>
+														<key>ConditionType</key>
+														<string>Is</string>
+														<key>TestValue</key>
+														<string>4</string>
+													</dict>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Switch</string>
+												<key>Source</key>
+												<string>Variable</string>
+												<key>Variable</key>
+												<string>local_cycle_index</string>
+											</dict>
+										</array>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>BOTTOM LEFT</string>
+												<key>ActionUID</key>
+												<integer>16389772</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>0,0.5,0.5,0.5</string>
+												<key>Variable</key>
+												<string>local_coefficients</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>16396377</integer>
+												<key>Dictionary</key>
+												<string>gaufde_CWM</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>Key</key>
+												<string>window_cycle_namespace</string>
+												<key>MacroActionType</key>
+												<string>SetDictionaryValue</string>
+												<key>Value</key>
+												<string>reset</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionName</key>
+										<string>TOP LEFT</string>
+										<key>ActionUID</key>
+										<integer>16389770</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>0,0,0.5,0.5</string>
+										<key>Variable</key>
+										<string>local_coefficients</string>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>16396376</integer>
+										<key>Dictionary</key>
+										<string>gaufde_CWM</string>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>Key</key>
+										<string>window_cycle_namespace</string>
+										<key>MacroActionType</key>
+										<string>SetDictionaryValue</string>
+										<key>Value</key>
+										<string>reset</string>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionName</key>
+								<string>FULL SCREEN</string>
+								<key>ActionUID</key>
+								<integer>16389768</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>0,0,1,1</string>
+								<key>Variable</key>
+								<string>local_coefficients</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>16396375</integer>
+								<key>Dictionary</key>
+								<string>gaufde_CWM</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>Key</key>
+								<string>window_cycle_namespace</string>
+								<key>MacroActionType</key>
+								<string>SetDictionaryValue</string>
+								<key>Value</key>
+								<string>reset</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16396803</integer>
+						<key>MacroActionType</key>
+						<string>ExecuteSubroutine</string>
+						<key>MacroUID</key>
+						<string>B2E9B730-970F-4B31-9CA6-715E0A902B7F</string>
+						<key>Parameters</key>
+						<array>
+							<string>%Variable%local_coefficients[1]%</string>
+							<string>%Variable%local_coefficients[2]%</string>
+							<string>%Variable%local_coefficients[3]%</string>
+							<string>%Variable%local_coefficients[4]%</string>
+							<string>false</string>
+						</array>
+						<key>ResultVariable</key>
+						<string>VarName</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>752374299.54396403</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Rounded=KMCOLOR:0,0,255,0=←=86=0=0=0=KMCOLOR:0,0,0,255</string>
+				<key>ModificationDate</key>
+				<real>752746581.02271402</real>
+				<key>Name</key>
+				<string>CWM Window Left</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>123</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>6400</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>562DCE0B-BC68-48A1-BBBA-3C06562967D5</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Cycling Window Manager 0.4.1</string>
 		<key>ToggleMacroUID</key>
 		<string>30481327-EB4A-4419-9E1E-E9424D44BE25</string>
 		<key>UID</key>
